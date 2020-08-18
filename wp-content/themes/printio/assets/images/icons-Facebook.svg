@@ -1,0 +1,15 @@
+<svg id="icons_Facebook" data-name="icons/Facebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M12,24A12,12,0,1,1,24,12,12.014,12.014,0,0,1,12,24ZM8.5,9.5v2h2v7h3v-7h2.1l.244-2H13.5V8.478a.571.571,0,0,1,.592-.648H15.5V5.524l-2.35-.006a2.435,2.435,0,0,0-2.186,1A3.26,3.26,0,0,0,10.5,8.336V9.5Z" transform="translate(1 1)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_5" data-name="グループ 5">
+    <path id="Mask-2" data-name="Mask" d="M12,24A12,12,0,1,1,24,12,12.014,12.014,0,0,1,12,24ZM8.5,9.5v2h2v7h3v-7h2.1l.244-2H13.5V8.478a.571.571,0,0,1,.592-.648H15.5V5.524l-2.35-.006a2.435,2.435,0,0,0-2.186,1A3.26,3.26,0,0,0,10.5,8.336V9.5Z" transform="translate(1 1)" fill="none"/>
+    <g id="マスクグループ_14" data-name="マスクグループ 14" clip-path="url(#clip-path)">
+      <g id="color_000000" data-name="color/#000000">
+        <rect id="Rectangle" width="26" height="26"/>
+      </g>
+    </g>
+  </g>
+</svg>

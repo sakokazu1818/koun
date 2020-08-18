@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="928.802" height="288.4" viewBox="0 0 928.802 288.4">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="207.2" height="84" rx="37.5" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Mask-2" data-name="Mask" width="252" height="84" rx="37.5" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Figure_02" data-name="Figure/02" transform="translate(3.501)">
+    <g id="Figure_02-2" data-name="Figure/02" transform="translate(-0.5)">
+      <g id="Cell_Word" data-name="Cell/Word" transform="translate(336.4)">
+        <g id="color_000000" data-name="color/#000000">
+          <rect id="Mask-7" data-name="Mask" width="207.2" height="84" rx="37.5" fill="#fff"/>
+          <g id="color_000000-2" data-name="color/#000000" clip-path="url(#clip-path)">
+            <g id="color_000000-3" data-name="color/#000000">
+              <rect id="Rectangle" width="207.2" height="84" fill="#e6da25"/>
+            </g>
+          </g>
+        </g>
+        <text id="B" transform="translate(102 57)" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-39" y="0">販売</tspan></text>
+        <text id="W" transform="translate(97 57)" fill="#fff" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-19.5" y="0">　</tspan></text>
+        <rect id="Hotspot" width="207.2" height="84" fill="none"/>
+      </g>
+      <g id="Cell_Word-2" data-name="Cell/Word" transform="translate(645)">
+        <g id="color_000000-4" data-name="color/#000000">
+          <rect id="Mask-8" data-name="Mask" width="252" height="84" rx="37.5" fill="#fff"/>
+          <g id="color_000000-5" data-name="color/#000000" clip-path="url(#clip-path-2)">
+            <g id="color_000000-6" data-name="color/#000000">
+              <rect id="Rectangle-2" data-name="Rectangle" width="252" height="84" fill="#bc3112"/>
+            </g>
+          </g>
+        </g>
+        <text id="B-2" data-name="B" transform="translate(97 57)" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-19.5" y="0">　</tspan></text>
+        <text id="W-2" data-name="W" transform="translate(126 57)" fill="#fff" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-97.5" y="0">在庫が余る</tspan></text>
+        <rect id="Hotspot-2" data-name="Hotspot" width="252" height="84" fill="none"/>
+      </g>
+      <g id="Cell_Word-3" data-name="Cell/Word" transform="translate(24.2)">
+        <g id="color_000000-7" data-name="color/#000000">
+          <rect id="Mask-9" data-name="Mask" width="207.2" height="84" rx="37.5" fill="#fff"/>
+          <g id="color_000000-8" data-name="color/#000000" clip-path="url(#clip-path)">
+            <g id="color_000000-9" data-name="color/#000000">
+              <rect id="Rectangle-3" data-name="Rectangle" width="207.2" height="84" fill="#e6da25"/>
+            </g>
+          </g>
+        </g>
+        <text id="B-3" data-name="B" transform="translate(104 56)" font-size="38" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-56.43" y="0">つくる</tspan></text>
+        <text id="W-3" data-name="W" transform="translate(97 57)" fill="#fff" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-19.5" y="0">　</tspan></text>
+        <rect id="Hotspot-3" data-name="Hotspot" width="207.2" height="84" fill="none"/>
+      </g>
+      <g id="Cell_Word-4" data-name="Cell/Word" transform="translate(336.4 204.4)">
+        <g id="color_000000-10" data-name="color/#000000">
+          <rect id="Mask-10" data-name="Mask" width="207.2" height="84" rx="37.5" fill="#fff"/>
+          <g id="color_000000-11" data-name="color/#000000" clip-path="url(#clip-path)">
+            <g id="color_000000-12" data-name="color/#000000">
+              <rect id="Rectangle-4" data-name="Rectangle" width="207.2" height="84" fill="#e6da25"/>
+            </g>
+          </g>
+        </g>
+        <text id="B-4" data-name="B" transform="translate(104 56)" font-size="38" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-56.43" y="0">つくる</tspan></text>
+        <text id="W-4" data-name="W" transform="translate(97 57)" fill="#fff" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-19.5" y="0">　</tspan></text>
+        <rect id="Hotspot-4" data-name="Hotspot" width="207.2" height="84" fill="none"/>
+      </g>
+      <g id="Cell_Word-5" data-name="Cell/Word" transform="translate(645 204.4)">
+        <g id="color_000000-13" data-name="color/#000000">
+          <rect id="Mask-11" data-name="Mask" width="252" height="84" rx="37.5" fill="#fff"/>
+          <g id="color_000000-14" data-name="color/#000000" clip-path="url(#clip-path-2)">
+            <g id="color_000000-15" data-name="color/#000000">
+              <rect id="Rectangle-5" data-name="Rectangle" width="252" height="84" fill="#2151a2"/>
+            </g>
+          </g>
+        </g>
+        <text id="B-5" data-name="B" transform="translate(97 57)" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-19.5" y="0">　</tspan></text>
+        <text id="W-5" data-name="W" transform="translate(126 57)" fill="#fff" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-76.83" y="0">在庫レス</tspan></text>
+        <rect id="Hotspot-5" data-name="Hotspot" width="252" height="84" fill="none"/>
+      </g>
+      <g id="Cell_Word-6" data-name="Cell/Word" transform="translate(24.2 204.4)">
+        <g id="color_000000-16" data-name="color/#000000">
+          <rect id="Mask-12" data-name="Mask" width="207.2" height="84" rx="37.5" fill="#fff"/>
+          <g id="color_000000-17" data-name="color/#000000" clip-path="url(#clip-path)">
+            <g id="color_000000-18" data-name="color/#000000">
+              <rect id="Rectangle-6" data-name="Rectangle" width="207.2" height="84" fill="#e6da25"/>
+            </g>
+          </g>
+        </g>
+        <text id="B-6" data-name="B" transform="translate(102 57)" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-39" y="0">受注</tspan></text>
+        <text id="W-6" data-name="W" transform="translate(97 57)" fill="#fff" font-size="39" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="-19.5" y="0">　</tspan></text>
+        <rect id="Hotspot-6" data-name="Hotspot" width="207.2" height="84" fill="none"/>
+      </g>
+      <g id="Group" transform="translate(567 16)">
+        <path id="Fill_505" data-name="Fill 505" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(48 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_506" data-name="Fill 506" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(38.4 33.6)" fill="#0b0b0a"/>
+        <path id="Fill_507" data-name="Fill 507" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(28.8 43.2)" fill="#0b0b0a"/>
+        <path id="Fill_508" data-name="Fill 508" d="M4.8,9.6A4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6" transform="translate(38.4 9.6)" fill="#0b0b0a"/>
+        <path id="Fill_509" data-name="Fill 509" d="M4.8,9.6A4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6" transform="translate(28.8)" fill="#0b0b0a"/>
+        <path id="Fill_510" data-name="Fill 510" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(0 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_511" data-name="Fill 511" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(12 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_512" data-name="Fill 512" d="M9.6,4.8A4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8" transform="translate(24 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_513" data-name="Fill 513" d="M0,4.8A4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8" transform="translate(36 21.6)" fill="#0b0b0a"/>
+      </g>
+      <g id="Group-2" data-name="Group" transform="translate(567 220)">
+        <path id="Fill_505-2" data-name="Fill 505" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(48 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_506-2" data-name="Fill 506" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(38.4 33.6)" fill="#0b0b0a"/>
+        <path id="Fill_507-2" data-name="Fill 507" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(28.8 43.2)" fill="#0b0b0a"/>
+        <path id="Fill_508-2" data-name="Fill 508" d="M4.8,9.6A4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6" transform="translate(38.4 9.6)" fill="#0b0b0a"/>
+        <path id="Fill_509-2" data-name="Fill 509" d="M4.8,9.6A4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6" transform="translate(28.8)" fill="#0b0b0a"/>
+        <path id="Fill_510-2" data-name="Fill 510" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(0 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_511-2" data-name="Fill 511" d="M4.8,0A4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0" transform="translate(12 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_512-2" data-name="Fill 512" d="M9.6,4.8A4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8,4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8" transform="translate(24 21.6)" fill="#0b0b0a"/>
+        <path id="Fill_513-2" data-name="Fill 513" d="M0,4.8A4.749,4.749,0,0,0,4.8,9.6,4.749,4.749,0,0,0,9.6,4.8,4.749,4.749,0,0,0,4.8,0,4.749,4.749,0,0,0,0,4.8" transform="translate(36 21.6)" fill="#0b0b0a"/>
+      </g>
+      <g id="Fill_167" data-name="Fill 167" transform="translate(431 123)">
+        <path id="Fill_167-2" data-name="Fill 167" d="M42.928,20.046a5.371,5.371,0,0,0-3.82-1.6A4.98,4.98,0,0,0,35.55,19.91l-8.288,8.642V4.066A3.578,3.578,0,0,0,26.178,1.5,5.6,5.6,0,0,0,22.262,0,5.667,5.667,0,0,0,18.3,1.468,3.519,3.519,0,0,0,17.244,4v24.55l-8.32-8.31A4.858,4.858,0,0,0,5.45,18.826,5.474,5.474,0,0,0,1.61,20.44a5.193,5.193,0,0,0-.2,7.314L21.334,47.706a1,1,0,0,0,1.414,0l20.33-20.3a5.218,5.218,0,0,0-.15-7.362" transform="translate(0.716 0.002)" fill="#0b0b0a"/>
+      </g>
+      <path id="Line" d="M.5.5,922.3.7" transform="translate(0 42)" fill="none" stroke="#4a4a4a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="7" opacity="0.497"/>
+      <path id="パス_1" data-name="パス 1" d="M416.159,411.958c.035-.062.09-.11.119-.174a2.139,2.139,0,0,0,0-1.769c-.029-.064-.084-.112-.117-.174a2.212,2.212,0,0,0-.4-.541c-.018-.015-.024-.037-.04-.053l-27.5-24.2a2.2,2.2,0,1,0-2.9,3.3L408.439,408.7h-44.77a2.2,2.2,0,1,0,0,4.4h44.77l-23.122,20.348a2.2,2.2,0,1,0,2.9,3.3l27.5-24.2c.015-.015.022-.037.04-.053A2.114,2.114,0,0,0,416.159,411.958Z" transform="translate(-102.969 -369)" fill="#030504"/>
+      <path id="パス_3" data-name="パス 3" d="M416.159,411.958c.035-.062.09-.11.119-.174a2.139,2.139,0,0,0,0-1.769c-.029-.064-.084-.112-.117-.174a2.212,2.212,0,0,0-.4-.541c-.018-.015-.024-.037-.04-.053l-27.5-24.2a2.2,2.2,0,1,0-2.9,3.3L408.439,408.7h-44.77a2.2,2.2,0,1,0,0,4.4h44.77l-23.122,20.348a2.2,2.2,0,1,0,2.9,3.3l27.5-24.2c.015-.015.022-.037.04-.053A2.114,2.114,0,0,0,416.159,411.958Z" transform="translate(-102.969 -164)" fill="#030504"/>
+    </g>
+  </g>
+</svg>

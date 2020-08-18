@@ -1,0 +1,15 @@
+<svg id="icons_Menu" data-name="icons/Menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M1,18a1,1,0,0,1-1-1V15a1,1,0,0,1,1-1H19a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1Zm0-7a1,1,0,0,1-1-1V8A1,1,0,0,1,1,7H19a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1ZM1,4A1,1,0,0,1,0,3V1A1,1,0,0,1,1,0H19a1,1,0,0,1,1,1V3a1,1,0,0,1-1,1Z"/>
+    </clipPath>
+  </defs>
+  <g id="color_000000" data-name="color/#000000" transform="translate(3 4)">
+    <path id="Mask-2" data-name="Mask" d="M1,18a1,1,0,0,1-1-1V15a1,1,0,0,1,1-1H19a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1Zm0-7a1,1,0,0,1-1-1V8A1,1,0,0,1,1,7H19a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1ZM1,4A1,1,0,0,1,0,3V1A1,1,0,0,1,1,0H19a1,1,0,0,1,1,1V3a1,1,0,0,1-1,1Z"/>
+    <g id="color_000000-2" data-name="color/#000000" clip-path="url(#clip-path)">
+      <g id="color_000000-3" data-name="color/#000000" transform="translate(-3 -4)">
+        <rect id="Rectangle" width="26" height="26"/>
+      </g>
+    </g>
+  </g>
+</svg>

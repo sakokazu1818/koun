@@ -1,0 +1,15 @@
+<svg id="icons_Next1" data-name="icons/Next1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M.733,15.385a.7.7,0,0,1-.518-.237A.87.87,0,0,1,.215,14l5.709-6.31L.215,1.382a.87.87,0,0,1,0-1.145.684.684,0,0,1,1.036,0L7.478,7.12a.87.87,0,0,1,0,1.145L1.251,15.148a.7.7,0,0,1-.518.237"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_10" data-name="グループ 10" transform="translate(6.154 2.308)">
+    <path id="Mask-2" data-name="Mask" d="M.733,15.385a.7.7,0,0,1-.518-.237A.87.87,0,0,1,.215,14l5.709-6.31L.215,1.382a.87.87,0,0,1,0-1.145.684.684,0,0,1,1.036,0L7.478,7.12a.87.87,0,0,1,0,1.145L1.251,15.148a.7.7,0,0,1-.518.237"/>
+    <g id="マスクグループ_19" data-name="マスクグループ 19" clip-path="url(#clip-path)">
+      <g id="color_000000" data-name="color/#000000" transform="translate(-5.643 -2.308)">
+        <rect id="Rectangle" width="20" height="20" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
