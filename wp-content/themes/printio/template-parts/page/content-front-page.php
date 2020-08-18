@@ -11,11 +11,11 @@
 ?>
 <main class="l-body top">
   <section class="p-mainImage">
-    <div class="p-mainImage__txt js-pc-p-mainImage__txt"><h1>全国の工場とデジタルプリントの<br>新しい当たり前をつくる！</h1></div>
-    <div class="p-mainImage__txt js-sp-p-mainImage__txt"><h1>全国の工場と<br>デジタルプリントの<br>新しい当たり前をつくる！</h1></div>
+    <div class="p-mainImage__txt js-pc-p-mainImage__txt"><h1>あなたの引越しトータルサポート</h1></div>
+    <div class="p-mainImage__txt js-sp-p-mainImage__txt"><h1>あなたの引越しトータルサポート</h1></div>
     <div class="swiper-container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image: url(wp-content/themes/printio/assets/images/parts-photo.png)"></div>
+        <div class="swiper-slide" style="background-image: url(wp-content/themes/printio/assets/images/parts-photo.svg)"></div>
       </div>
     </div>
   </section>
