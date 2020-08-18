@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <g id="グループ_47" data-name="グループ 47" transform="translate(-1370)">
+    <g id="グループ_46" data-name="グループ 46">
+      <rect id="長方形_104" data-name="長方形 104" width="400" height="120" transform="translate(1370)" fill="#c1c1c1"/>
+    </g>
+    <text id="引越しについてのお問い合わせ" transform="translate(1469 49)" fill="#070506" font-size="20" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro"><tspan x="0" y="18">引越しについてのお問い合わせ</tspan></text>
+    <g id="Icon_ionic-md-chatboxes" data-name="Icon ionic-md-chatboxes" transform="translate(1398.687 38.372)">
+      <path id="パス_108" data-name="パス 108" d="M36.7,4.5H4.307a.934.934,0,0,0-.932.792V26.073a.973.973,0,0,0,.932.837H9.875v8.624l8.743-8.624H36.7a.783.783,0,0,0,.722-.837V5.292A.742.742,0,0,0,36.7,4.5Z" transform="translate(0 0)"/>
+      <path id="パス_109" data-name="パス 109" d="M39.491,8.93H36.348V25.089c0,1.551-.671,2.564-2.44,2.564H16.374L12.6,31.436H25.18l8.743,8.634V31.436h5.568a.8.8,0,0,0,.738-.842V9.813A.839.839,0,0,0,39.491,8.93Z" transform="translate(3.503 1.682)"/>
+    </g>
+  </g>
+</svg>

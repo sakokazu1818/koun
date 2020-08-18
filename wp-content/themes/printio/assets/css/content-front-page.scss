@@ -1,3 +1,52 @@
+@media screen and (max-width: 768px) {
+  .l-header {
+    height: 30px;
+    .l-header__container {
+      height: 30px;
+      font-size: 1px;
+      .l-header__logo {
+        img {
+          height: 26px;
+          width: auto;
+        }
+      }
+      .tell {
+        height: 100%;
+        background-color: #070506;
+        a {
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          img {
+            height: auto;
+            width: 60px;
+          }
+        }
+      }
+      .inquiry-about-moving {
+        img {
+          height: 30px;
+          width: auto;
+        }
+      }
+      .l-menuToggle-wrap {
+        height: 100%;
+        width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .l-menuToggle {
+          height: 20px;
+          width: 20px;
+          border-right: 0;
+          background: url(../images/menu.svg) no-repeat;
+          background-size: contain;
+        }
+      }
+    }
+  }
+}
+
 .is-hover:hover {
   opacity: 0.5 ;
 }

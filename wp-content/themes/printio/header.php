@@ -38,14 +38,15 @@
 </head>
 <header class="l-header">
   <div class="l-header__container">
-    <div class="l-menuToggle is-hover">
-      <div>
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
+    <div class="l-header__logo">
+      <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/logo-logo1.svg" alt="幸運引越社センターロゴ"></a>
     </div>
-    <div class="l-header__logo"><a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/logo-logo1.svg" alt="Printioロゴ"></a></div>
+    <div class="tell">
+      <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/tell.svg" alt="tell"></a>
+    </div>
+    <div class="inquiry-about-moving">
+      <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/inquiry-about-moving.svg" alt="引っ越しについてお問い合わせ"></a>
+    </div>
     <ul class="l-header__btns">
       <li><a href="/aboutus" class="l-header__btns__registration is-hover is-inline aboutus-link">Printioについて</a></li>
       <li><a href="/news" class="l-header__btns__registration is-hover is-inline news-link">お知らせ</a></li>
@@ -53,35 +54,40 @@
       <li><a href="/contact" class="l-header__btns__registration is-hover is-inline last contact-link">お問い合わせ</a></li>
     </ul>
 
+    <div class="l-menuToggle-wrap is-hover">
+      <div class="l-menuToggle">
+      </div>
+    </div>
+
     <div class="l-globalNavi__wrap">
       <ul class="l-globalNavi__links">
         <li>
           <div class="l-globalNavi__category__aboutus">
-            <a href="/aboutus">Printioについて</a>
+            <a href="/">ページ1</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
           <div class="l-globalNavi__category__news">
-            <a href="/news">お知らせ</a>
+            <a href="/">ページ2</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
           <div class="l-globalNavi__category__blog">
-            <a href="/blog">ブログ</a>
+            <a href="/">ページ3</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
           <div class="l-globalNavi__category__profile">
-            <a href="/profile">会社概要</a>
+            <a href="/">ページ4</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
           <div class="l-globalNavi__category__contact">
-            <a href="/contact">お問い合わせ</a>
+            <a href="/contact">ページ5</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
