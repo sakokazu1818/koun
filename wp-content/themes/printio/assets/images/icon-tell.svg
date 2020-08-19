@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119.765" height="118.639" viewBox="0 0 119.765 118.639">
+  <defs>
+    <filter id="Icon_zocial-call" x="0" y="8.364" width="110.157" height="110.275" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_45" data-name="グループ 45" transform="translate(-429 -5859.636)">
+    <g transform="matrix(1, 0, 0, 1, 429, 5859.64)" filter="url(#Icon_zocial-call)">
+      <path id="Icon_zocial-call-2" data-name="Icon zocial-call" d="M3.461,21.052a6.79,6.79,0,0,1,1.728-3.687L19.015,3.539Q20.63,2.157,21.435,4L32.61,24.969a3.017,3.017,0,0,1-.576,3.572L26.965,33.61a5.733,5.733,0,0,0-1.613,3.572q0,3.456,3.572,8.871a75.759,75.759,0,0,0,7.028,9.221l3.572,3.683c1.077,1.077,2.455,2.4,4.151,3.975a69.557,69.557,0,0,0,8.349,6.222q5.816,3.861,9.16,3.86a5.015,5.015,0,0,0,3.687-1.5l5.995-5.991a2.532,2.532,0,0,1,3.453-.461L94.484,76.93a1.684,1.684,0,0,1,.922,1.21,1.471,1.471,0,0,1-.461,1.325L81.119,93.291a6.771,6.771,0,0,1-3.683,1.725A27.873,27.873,0,0,1,64.7,93.46,57.616,57.616,0,0,1,51.57,87.181q-6.049-3.915-11.233-7.946t-8.3-6.913l-3-2.884q-1.15-1.15-3.053-3.168t-6.632-7.946a115.71,115.71,0,0,1-8.18-11.579A67.546,67.546,0,0,1,5.189,33.9,27.328,27.328,0,0,1,3.461,21.052Z" transform="translate(5.73 11.42)" fill="#c49525"/>
+    </g>
+    <path id="パス_69" data-name="パス 69" d="M-4093.756,4919.17s37.929-7.259,41.447,32.956" transform="matrix(0.996, 0.087, -0.087, 0.996, 4996.324, 1335.863)" fill="none" stroke="#c49525" stroke-width="3"/>
+    <path id="パス_72" data-name="パス 72" d="M-4093.756,4919.387s54.058-10.345,59.071,46.97" transform="matrix(0.996, 0.087, -0.087, 0.996, 4995.166, 1318.007)" fill="none" stroke="#c49525" stroke-width="3"/>
+    <path id="パス_71" data-name="パス 71" d="M-4093.756,4919s25.254-4.833,27.6,21.943" transform="matrix(0.996, 0.087, -0.087, 0.996, 4992.736, 1352.037)" fill="none" stroke="#c49525" stroke-width="3"/>
+  </g>
+</svg>

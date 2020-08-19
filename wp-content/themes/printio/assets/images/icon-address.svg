@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="136" viewBox="0 0 146 136">
+  <defs>
+    <filter id="楕円形_34" x="0" y="81" width="146" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_47" data-name="グループ 47" transform="translate(-888 -5844)">
+    <g transform="matrix(1, 0, 0, 1, 888, 5844)" filter="url(#楕円形_34)">
+      <g id="楕円形_34-2" data-name="楕円形 34" transform="translate(9 87)" fill="#fff" stroke="#c49525" stroke-width="3">
+        <ellipse cx="64" cy="18.5" rx="64" ry="18.5" stroke="none"/>
+        <ellipse cx="64" cy="18.5" rx="62.5" ry="17" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_material-location-on" data-name="Icon material-location-on" d="M44.336,3A36.809,36.809,0,0,0,7.5,39.836c0,27.627,36.836,68.409,36.836,68.409S81.172,67.463,81.172,39.836A36.809,36.809,0,0,0,44.336,3Zm0,49.991A13.156,13.156,0,1,1,57.491,39.836,13.16,13.16,0,0,1,44.336,52.991Z" transform="translate(916.5 5841)" fill="#c49525"/>
+  </g>
+</svg>

@@ -15,7 +15,34 @@
 ?>
 <?php wp_footer(); ?>
 <footer class="l-footer">
-   <div class="l-container01 l-footer__container">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51798.62044172689!2d139.6948194967401!3d35.765210949646765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601892f5059402eb%3A0x1ae9c9853eb9ce72!2z5p2x5Lqs6YO95YyX5Yy6!5e0!3m2!1sja!2sjp!4v1597820084080!5m2!1sja!2sjp" width="100%" height="140px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  <div class="l-container01 l-footer__container company-info-area">
+    <div class="container">
+      <div class="row">
+        <div class="col-4 text-center pl-0 pr-0">
+          <a href="tel:000-1234-5678">
+           <img class="icon" src="/wp-content/themes/printio/assets/images/icon-tell.svg" alt="line">
+           <div class="company-info-text">TEL: 03-1234-5678</div>
+          </a>
+        </div>
+
+        <div class="col-4 text-center pl-0 pr-0">
+          <a href="/">
+            <img class="icon" src="/wp-content/themes/printio/assets/images/icon-address.svg" alt="line">
+            <div class="company-info-text">住所住所住所住所住所</div>
+          </a>
+        </div>
+
+        <div class="col-4 text-center pl-0 pr-0">
+          <a href="tel:000-1234-5678">
+            <img class="icon" src="/wp-content/themes/printio/assets/images/icom-inquiry-about-moving.svg" alt="line">
+            <div class="company-info-text">引越しのお問い合わせ</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+   <div class="l-container01 l-footer__container sns-area">
      <div class="container">
        <div class="row">
          <div class="col-4 text-center sns-wrap">
