@@ -40,8 +40,35 @@
       </div>
     </div>
   </section>
+  <section class="c-contents">
+    <div class="l-container01 black-box">
+      <div class="content"></div>
+    </div>
+  </section>
+  <section class="c-contents">
+    <div class="l-container01 company-philosophy">
+      <div class="row content">
+        <div class="col-6 text-center d-flex align-items-end">
+          <img class="recurit-img" src="/wp-content/themes/printio/assets/images/company-philosophy.svg" alt="リクルート"></img>
+        </div>
+        <div class="col-6 pl-0">
+          <h2>企業理念</h2>
+          <div>引越を通じて、お客様と一生涯のお付き合いができる関係を作り上げていく。</div>
+          <div class="wrap-more-btn">
+            <a class="btn btn-primary more-btn" href="#" role="button">もっと見る</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 	<section class="c-contents">
-		<div class="l-container01 inquiry-area">
+		<div class="l-container01 about-moving">
+      <h2>引越しについて</h2>
+      <div>お客様の引越しに関わる全てをトータルサポート</div>
+      <div class="mb-2 mt-3">
+        <a class="btn btn-primary more-btn" href="#" role="button">もっと見る</a>
+      </div>
+
       <div class="text-center">
         <a class="btn btn-primary inquiry-btn" href="#" role="button">
           <img class="inquiry-img" src="/wp-content/themes/printio/assets/images/logo-2.svg" alt="幸運引越社センターロゴ"></img>

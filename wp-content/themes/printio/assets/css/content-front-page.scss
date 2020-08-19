@@ -56,8 +56,40 @@
 }
 .top {
   background-color: #fff;
+  font-size: 1rem;
+
+  h2 {
+    font-size: 1.8rem;
+    margin-bottom: 14px;
+    position: relative;
+  }
+
   @media screen and (max-width: 768px) {
     padding-top: 30px;
+  }
+
+  .more-btn {
+    position: relative;
+    color: #FFFFFF;
+    width: 158px;
+    border-radius: 0;
+    background-color: #BB8E24;
+    border-style: none;
+  }
+
+  .more-btn::before {
+    content: '>';
+    width: 1rem;
+    height: 1rem;
+    line-height: 15px;
+    text-align: center;
+    font-size: 1rem;
+    color: inherit;
+    position: absolute;
+    top: 38%;
+    right: 6px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
   }
 
   .l-body {
@@ -76,7 +108,54 @@
     }
   }
 
-  .inquiry-area {
+  .black-box {
+    padding-left: 2%;
+    padding-bottom: 2%;
+    .content {
+      height: 60px;
+      background-color: #000;
+    }
+  }
+
+  .company-philosophy {
+    margin-bottom: 10px;
+
+    h2::before{
+      content: "";
+      display: block;
+      width: 76px;
+      height: 3px;
+      background-color: #C49525;
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+    }
+
+    .wrap-more-btn {
+      padding-top: 18px;
+    }
+
+    .recurit-img {
+      height: 148px;
+      object-fit: cover;
+      position: relative;
+      z-index: 5;
+      top: -40px;
+    }
+  }
+
+  .about-moving {
+    h2::before{
+      content: "";
+      display: block;
+      width: 126px;
+      height: 3px;
+      background-color: #C49525;
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+    }
+
     .inquiry-btn {
       position: relative;
       z-index: 5;
@@ -127,7 +206,6 @@
 
   .recurit-info-area {
     margin-top: 42px;
-    font-size: 1rem;
 
     h2 {
       font-size: 1.8rem;
@@ -146,13 +224,14 @@
       left: 0;
     }
 
-    .more-btn,.inquiry-btn {
+    .inquiry-btn {
       position: relative;
       color: #FFFFFF;
       width: 100%;
       border-radius: 0;
       background-color: #BB8E24;
       border-style: none;
+      width: 158px;
     }
 
     .inquiry-btn {
