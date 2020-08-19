@@ -309,23 +309,23 @@
     .sns-wrap::before{
       content: "";
       display: block;
-      width: 92px;
+      width: 74px;
       height: 1px;
       background-color: #C49525;
       position:absolute;
       bottom: 0;
-      right: 8px;
+      right: 30px;
     }
 
     .sns-wrap::after{
       content: "";
       display: inline-block;
       width: 1px;
-      height: 18px;
+      height: 14px;
       background-color: #C49525;
       position: absolute;
-      top: 0;
-      right: 8px;
+      top: 4px;
+      right: 30px;
     }
 
     .icon {
