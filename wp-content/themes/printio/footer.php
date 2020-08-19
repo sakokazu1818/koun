@@ -16,22 +16,34 @@
 <?php wp_footer(); ?>
 <footer class="l-footer">
    <div class="l-container01 l-footer__container">
-     <div class="l-footer__logo"><a href="/" class="is-hover"><img class="header__logo" src="/wp-content/themes/printio/assets/images/logo-logo1.svg" alt="Printioロゴ"></a></div>
-     <ul class="l-footer__nav">
-       <li><a href="/news">お知らせ</a></li>
-       <li><a href="/profile">会社概要</a></li><br class="u-spOnly">
-       <li><a href="/specific-trade-law">特定商取引法に基づく表示</a></li>
-       <li><a href="/privacy-policy">プライバシーポリシー</a></li>
-     </ul>
+     <div class="container">
+       <div class="row">
+         <div class="col-4 text-center sns-wrap">
+           <a href="https://twitter.com/" class="is-hover" target="_blank">
+             <img src="/wp-content/themes/printio/assets/images/line.svg" alt="line">
+             <div class="sns-text">LINE</div>
+           </a>
+         </div>
 
-     <ul class="l-footer__sns">
-       <li><a href="https://www.facebook.com/Printio-104052731366204" class="is-hover" target="_blank"><img src="/wp-content/themes/printio/assets/images/btn_fb.png" alt="Facebook"></a></li>
-       <li><a href="https://www.instagram.com/printio.me/" class="is-hover" target="_blank"><img src="/wp-content/themes/printio/assets/images/btn_ig.png" alt="instagram"></a></li>
-       <li><a href="https://twitter.com/Printiome" class="is-hover" target="_blank"><img src="/wp-content/themes/printio/assets/images/btn_tw.png" alt="twitter"></a></li>
-     </ul>
+         <div class="col-4 text-center sns-wrap">
+           <a href="https://www.instagram.com/" class="is-hover" target="_blank">
+             <i class="fab fa-instagram icon"></i>
+             <div class="sns-text">Instagram</div>
+           </a>
+         </div>
+
+         <div class="col-4 text-center sns-wrap">
+           <a href="https://www.facebook.com/" class="is-hover" target="_blank">
+             <i class="fab fa-facebook-f icon"></i>
+             <div class="sns-text">Facebook</div>
+           </a>
+         </div>
+
+       </div>
+     </div>
    </div>
 
-   <div class="l-footer__copyright"><small>Copyright &copy; 2020 Printio Co. Ltd. All rights reserved.</small></div>
+   <div class="l-footer__copyright"><small>&copy; 幸運引越センター. All rights reserved.</small></div>
  </footer>
  <script>
   var path_template_directory_uri = "<?php echo get_template_directory_uri();?>";

@@ -23,19 +23,19 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/parts-photo.svg" alt="First slide">
+          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/FirstSlide.svg" alt="First slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="https://placehold.it/1200x400" alt="Second slide">
+          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/SecondSlide.svg" alt="Second slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="https://placehold.it/1200x400" alt="Third slide">
+          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/ThirdSlide.svg" alt="Third slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="https://placehold.it/1200x400" alt="Fourth slide">
+          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/FourthSlide.svg" alt="Fourth slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="https://placehold.it/1200x400" alt="Fifth slide">
+          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/FifthSlide.svg" alt="Fifth slide">
         </div>
       </div>
     </div>

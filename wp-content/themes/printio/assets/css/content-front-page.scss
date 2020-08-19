@@ -66,6 +66,55 @@
       background-color: #BB8E24;
     }
   }
+
+  .l-footer__container {
+    background-color: #000;
+
+    .sns-wrap {
+      position:relative;
+      height: 19px;
+    }
+
+    .sns-wrap::before{
+      content: "";
+      display: block;
+      width: 92px;
+      height: 1px;
+      background-color: #C49525;
+      position:absolute;
+      bottom: 0;
+      right: 8px;
+    }
+
+    .sns-wrap::after{
+      content: "";
+      display: inline-block;
+      width: 1px;
+      height: 18px;
+      background-color: #C49525;
+      position: absolute;
+      top: 0;
+      right: 8px;
+    }
+
+    .icon {
+      color: #FFF;
+      font-size: 8px;
+    }
+
+    img {
+      display: inline-block;
+      vertical-align: middle;
+      padding-bottom: 1px;
+      height: 10px;
+    }
+
+    .sns-text {
+      margin-left: 8px;
+      display: inline-block;
+      color: #C1C1C1;
+    }
+  }
 }
 
 .is-hover:hover {
