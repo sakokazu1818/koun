@@ -1,8 +1,3 @@
-.swiper-container {
-  width: 100%;
-  height: 230px !important;
-}
-
 @media screen and (max-width: 768px) {
   .l-globalNavi__wrap {
     top: 30px;
@@ -56,6 +51,20 @@
 
   .l-body {
     padding-top: 30px;
+
+    .p-mainImage__txt h1 {
+      font-size: 2rem;
+    }
+
+    .main-visual-img {
+      width: 100%;
+      height: 230px !important;
+      object-fit: cover;
+    }
+
+    .carousel-indicators .active {
+      background-color: #BB8E24;
+    }
   }
 }
 
