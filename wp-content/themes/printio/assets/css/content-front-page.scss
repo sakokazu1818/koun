@@ -1,3 +1,8 @@
+.c-container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 @media screen and (max-width: 768px) {
   .l-globalNavi__wrap {
     top: 30px;
@@ -48,10 +53,14 @@
       }
     }
   }
+}
+.top {
+  background-color: #fff;
+  @media screen and (max-width: 768px) {
+    padding-top: 30px;
+  }
 
   .l-body {
-    padding-top: 30px;
-
     .p-mainImage__txt h1 {
       font-size: 2rem;
     }
@@ -64,6 +73,128 @@
 
     .carousel-indicators .active {
       background-color: #BB8E24;
+    }
+  }
+
+  .inquiry-area {
+    .inquiry-btn {
+      position: relative;
+      z-index: 5;
+      width: 280px;
+      height: 100px;
+      top: 50px;
+      color: #BB8E24;
+      background-color: #FFF;
+      border-color: #BB8E24;
+      position: relative;
+      border-radius: 0;
+
+      .inquiry-img {
+        display: inline-block;
+        height: 60px;
+        position: relative;
+        top: 50%;
+        right: 18px;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
+
+      .text {
+        color: #070506;
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        display: inline-block;
+      }
+    }
+
+    .inquiry-btn::before {
+      content: '>';
+      width: 1rem;
+      height: 1rem;
+      line-height: 15px;
+      text-align: center;
+      font-size: 1rem;
+      color: inherit;
+      position: absolute;
+      top: 47%;
+      right: 18px;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  }
+
+  .recurit-info-area {
+    margin-top: 42px;
+    font-size: 1rem;
+
+    h2 {
+      font-size: 1.8rem;
+      margin-bottom: 14px;
+      position: relative;
+    }
+
+    h2::before{
+      content: "";
+      display: block;
+      width: 90px;
+      height: 3px;
+      background-color: #C49525;
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+    }
+
+    .more-btn,.inquiry-btn {
+      position: relative;
+      color: #FFFFFF;
+      width: 100%;
+      border-radius: 0;
+      background-color: #BB8E24;
+      border-style: none;
+    }
+
+    .inquiry-btn {
+      color: #BB8E24;
+      background-color: #FFF;
+      border-style: solid;
+      border-color: #BB8E24;
+    }
+
+    .recurit-img {
+      width: 100%;
+      height: auto;
+    }
+
+    .inquiry-btn::before {
+      content: '>';
+      width: 1rem;
+      height: 1rem;
+      line-height: 15px;
+      text-align: center;
+      font-size: 1rem;
+      color: inherit;
+      position: absolute;
+      top: 38%;
+      right: 3px;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+
+    .more-btn::before {
+      content: '>';
+      width: 1rem;
+      height: 1rem;
+      line-height: 15px;
+      text-align: center;
+      font-size: 1rem;
+      color: inherit;
+      position: absolute;
+      top: 38%;
+      right: 6px;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
     }
   }
 }
@@ -135,6 +266,10 @@
       display: inline-block;
       color: #C1C1C1;
     }
+  }
+
+  .l-footer__copyright {
+    padding-top: 10px;
   }
 }
 

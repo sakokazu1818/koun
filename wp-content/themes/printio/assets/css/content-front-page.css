@@ -1,3 +1,7 @@
+.c-container {
+  padding-left: 0;
+  padding-right: 0;
+}
 @media screen and (max-width: 768px) {
   .l-globalNavi__wrap {
     top: 30px;
@@ -44,20 +48,133 @@
     background: url(../images/menu.svg) no-repeat;
     background-size: contain;
   }
-  .l-body {
+}
+.top {
+  background-color: #fff;
+}
+@media screen and (max-width: 768px) {
+  .top {
     padding-top: 30px;
   }
-  .l-body .p-mainImage__txt h1 {
-    font-size: 2rem;
-  }
-  .l-body .main-visual-img {
-    width: 100%;
-    height: 230px !important;
-    object-fit: cover;
-  }
-  .l-body .carousel-indicators .active {
-    background-color: #bb8e24;
-  }
+}
+.top .l-body .p-mainImage__txt h1 {
+  font-size: 2rem;
+}
+.top .l-body .main-visual-img {
+  width: 100%;
+  height: 230px !important;
+  object-fit: cover;
+}
+.top .l-body .carousel-indicators .active {
+  background-color: #bb8e24;
+}
+.top .inquiry-area .inquiry-btn {
+  position: relative;
+  z-index: 5;
+  width: 280px;
+  height: 100px;
+  top: 50px;
+  color: #bb8e24;
+  background-color: #fff;
+  border-color: #bb8e24;
+  position: relative;
+  border-radius: 0;
+}
+.top .inquiry-area .inquiry-btn .inquiry-img {
+  display: inline-block;
+  height: 60px;
+  position: relative;
+  top: 50%;
+  right: 18px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.top .inquiry-area .inquiry-btn .text {
+  color: #070506;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  display: inline-block;
+}
+.top .inquiry-area .inquiry-btn::before {
+  content: '>';
+  width: 1rem;
+  height: 1rem;
+  line-height: 15px;
+  text-align: center;
+  font-size: 1rem;
+  color: inherit;
+  position: absolute;
+  top: 47%;
+  right: 18px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.top .recurit-info-area {
+  margin-top: 42px;
+  font-size: 1rem;
+}
+.top .recurit-info-area h2 {
+  font-size: 1.8rem;
+  margin-bottom: 14px;
+  position: relative;
+}
+.top .recurit-info-area h2::before {
+  content: "";
+  display: block;
+  width: 90px;
+  height: 3px;
+  background-color: #c49525;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+}
+.top .recurit-info-area .more-btn, .top .recurit-info-area .inquiry-btn {
+  position: relative;
+  color: #fff;
+  width: 100%;
+  border-radius: 0;
+  background-color: #bb8e24;
+  border-style: none;
+}
+.top .recurit-info-area .inquiry-btn {
+  color: #bb8e24;
+  background-color: #fff;
+  border-style: solid;
+  border-color: #bb8e24;
+}
+.top .recurit-info-area .recurit-img {
+  width: 100%;
+  height: auto;
+}
+.top .recurit-info-area .inquiry-btn::before {
+  content: '>';
+  width: 1rem;
+  height: 1rem;
+  line-height: 15px;
+  text-align: center;
+  font-size: 1rem;
+  color: inherit;
+  position: absolute;
+  top: 38%;
+  right: 3px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.top .recurit-info-area .more-btn::before {
+  content: '>';
+  width: 1rem;
+  height: 1rem;
+  line-height: 15px;
+  text-align: center;
+  font-size: 1rem;
+  color: inherit;
+  position: absolute;
+  top: 38%;
+  right: 6px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 .l-footer a {
   color: #c1c1c1;
@@ -115,6 +232,9 @@
   margin-left: 8px;
   display: inline-block;
   color: #c1c1c1;
+}
+.l-footer .l-footer__copyright {
+  padding-top: 10px;
 }
 .is-hover:hover {
   opacity: 0.5;
