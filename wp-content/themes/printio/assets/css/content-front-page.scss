@@ -3,6 +3,10 @@
   padding-right: 0;
 }
 
+h2 {
+  font-size: 1.8rem;
+}
+
 @media screen and (max-width: 768px) {
   .l-globalNavi__wrap {
     top: 30px;
@@ -54,12 +58,12 @@
     }
   }
 }
+
 .top {
   background-color: #fff;
   font-size: 1rem;
 
   h2 {
-    font-size: 1.8rem;
     margin-bottom: 14px;
     position: relative;
   }
@@ -208,7 +212,6 @@
     margin-top: 42px;
 
     h2 {
-      font-size: 1.8rem;
       margin-bottom: 14px;
       position: relative;
     }
@@ -277,6 +280,58 @@
     }
   }
 }
+
+.philosophy {
+  @media screen and (max-width: 768px) {
+    padding-top: 30px;
+
+    .bg-img-1 {
+      position: relative;
+      height: 200px;
+      background: url(../images/bg-1.svg) no-repeat;
+      background-size: cover;
+
+      .title {
+        width: 120px;
+        position: relative;
+        z-index: 5;
+        color: #FFF;
+        left: 30px;
+        top: 80px;
+      }
+
+      .content{
+        width: 80%;
+        .pb-15p {
+          padding-bottom: 15px;
+        }
+        .content-title {
+          font-size: 12px !important;
+          font-weight: bold;
+          padding-bottom: 15px;
+        }
+
+        position: relative;
+        z-index: 5;
+        color: #000;
+        left: 0px;
+        top: 120px;
+        font-size: 10px !important;
+        padding-left: 30px;
+        padding-top: 15px;
+        background-color: #FFF;
+      }
+    }
+
+    .bg-img-2 {
+      position: relative;
+      height: 200px;
+      background: url(../images/bg-2.svg) no-repeat;
+      background-size: cover;
+    }
+  }
+}
+
 .l-footer {
   a {
     color: #C1C1C1;
