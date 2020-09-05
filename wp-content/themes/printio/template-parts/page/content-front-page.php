@@ -55,7 +55,7 @@
           <h2>企業理念</h2>
           <div>引越を通じて、お客様と一生涯のお付き合いができる関係を作り上げていく。</div>
           <div class="wrap-more-btn">
-            <a class="btn btn-primary more-btn" href="#" role="button">もっと見る</a>
+            <a class="btn btn-primary more-btn" href="/philosophy" role="button">もっと見る</a>
           </div>
         </div>
       </div>
