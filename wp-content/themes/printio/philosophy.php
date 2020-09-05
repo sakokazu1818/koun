@@ -21,13 +21,13 @@ get_header(); ?>
   <section>
     <div class="bg-img-1">
       <div class="title">
-        <h2>企業理念</h2>
+        <h1>企業理念</h1>
         Corporate Philosophy
       </div>
       <div class="content">
-        <div class="content-title">引越を通じて、お客様と一生涯の
+        <h2 class="content-title">引越を通じて、お客様と一生涯の
           <br>お付き合いができる関係を 作り上げていく。
-        </div>
+        </h2>
         <p>私たちは、単なる 【 引越センター社】ではなく、引越
         <p class="pb-15p">は一つのきっかけとしかとらえておりません。
         <p>一つ一つの出会いを大切にし、お客様の悩み、夢、新生

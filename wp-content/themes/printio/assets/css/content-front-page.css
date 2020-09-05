@@ -246,6 +246,9 @@ h2 {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+.philosophy h1 {
+  font-size: 1.8rem;
+}
 @media screen and (max-width: 768px) {
   .philosophy {
     padding-top: 30px;

@@ -66,7 +66,7 @@
       <h2>引越しについて</h2>
       <div>お客様の引越しに関わる全てをトータルサポート</div>
       <div class="mb-2 mt-3">
-        <a class="btn btn-primary more-btn" href="#" role="button">もっと見る</a>
+        <a class="btn btn-primary more-btn" href="/aboutus" role="button">もっと見る</a>
       </div>
 
       <div class="text-center">
