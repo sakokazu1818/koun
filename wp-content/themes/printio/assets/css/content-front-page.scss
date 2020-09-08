@@ -293,6 +293,10 @@ h2 {
 
     .image {
       display: inline-block;
+      width: 46%;
+      height: 60px;
+      background: url(../images/design-01.svg) no-repeat;
+      background-size: contain;
     }
   }
 
@@ -327,13 +331,6 @@ h2 {
 
         .text {
           width: 50%;
-        }
-
-        .image {
-          width: 40%;
-          height: 60px;
-          background: url(../images/design-01.svg) no-repeat;
-          background-size: contain;
         }
 
         position: relative;

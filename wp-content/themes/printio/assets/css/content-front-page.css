@@ -254,6 +254,10 @@ h2 {
 }
 .philosophy .content .image {
   display: inline-block;
+  width: 46%;
+  height: 60px;
+  background: url(../images/design-01.svg) no-repeat;
+  background-size: contain;
 }
 @media screen and (max-width: 768px) {
   .philosophy {
@@ -295,12 +299,6 @@ h2 {
   }
   .philosophy .bg-img-1 .content .text {
     width: 50%;
-  }
-  .philosophy .bg-img-1 .content .image {
-    width: 40%;
-    height: 60px;
-    background: url(../images/design-01.svg) no-repeat;
-    background-size: contain;
   }
   .philosophy .bg-img-2 {
     position: relative;
