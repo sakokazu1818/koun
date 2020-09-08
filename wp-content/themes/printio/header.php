@@ -40,7 +40,7 @@
 <header class="l-header">
   <div class="l-header__container">
     <div class="l-header__logo">
-      <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/logo-logo1.svg" alt="幸運引越社センターロゴ"></a>
+      <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/logo.png" alt="幸運引越社センターロゴ"></a>
     </div>
     <div class="tell">
       <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/tell.svg" alt="tell"></a>
