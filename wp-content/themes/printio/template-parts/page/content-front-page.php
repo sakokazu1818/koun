@@ -55,7 +55,7 @@
           <h2>企業理念</h2>
           <div>引越を通じて、お客様と一生涯のお付き合いができる関係を作り上げていく。</div>
           <div class="wrap-more-btn">
-            <a class="btn btn-primary more-btn" href="/philosophy" role="button">もっと見る</a>
+            <a class="btn btn-warning more-btn" href="/philosophy" role="button">もっと見る</a>
           </div>
         </div>
       </div>
@@ -66,11 +66,11 @@
       <h2>引越しについて</h2>
       <div>お客様の引越しに関わる全てをトータルサポート</div>
       <div class="mb-2 mt-3">
-        <a class="btn btn-primary more-btn" href="/aboutus" role="button">もっと見る</a>
+        <a class="btn btn-warning more-btn" href="/aboutus" role="button">もっと見る</a>
       </div>
 
       <div class="text-center">
-        <a class="btn btn-primary inquiry-btn" href="#" role="button">
+        <a class="btn btn-warning inquiry-btn" href="#" role="button">
           <img class="inquiry-img" src="/wp-content/themes/printio/assets/images/logo-2.svg" alt="幸運引越社センターロゴ"></img>
           <div class="text">引越しのお問い合わせ</div>
         </a>
@@ -86,11 +86,11 @@
             <h2>リクルート</h2>
             <div class="mb-3">お客様は、もちろん一緒に働く社員も同じ。一生お付き合いできる会社です</div>
             <div class="mb-2">
-              <a class="btn btn-primary more-btn" href="#" role="button">もっと見る</a>
+              <a class="btn btn-warning more-btn" href="#" role="button">もっと見る</a>
             </div>
             <div>
               <div>
-                <a class="btn btn-primary inquiry-btn" href="#" role="button">リクルートのお問い合わせ</a>
+                <a class="btn btn-warning inquiry-btn" href="#" role="button">リクルートのお問い合わせ</a>
               </div>
             </div>
           </div>

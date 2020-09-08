@@ -286,6 +286,16 @@ h2 {
     font-size: 1.8rem;
   }
 
+  .content {
+    .text {
+      display: inline-block;
+    }
+
+    .image {
+      display: inline-block;
+    }
+  }
+
   @media screen and (max-width: 768px) {
     padding-top: 30px;
 
@@ -304,7 +314,7 @@ h2 {
         top: 80px;
       }
 
-      .content{
+      .content {
         width: 80%;
         .pb-15p {
           padding-bottom: 15px;
@@ -313,6 +323,17 @@ h2 {
           font-size: 12px !important;
           font-weight: bold;
           padding-bottom: 15px;
+        }
+
+        .text {
+          width: 50%;
+        }
+
+        .image {
+          width: 40%;
+          height: 60px;
+          background: url(../images/design-01.svg) no-repeat;
+          background-size: contain;
         }
 
         position: relative;

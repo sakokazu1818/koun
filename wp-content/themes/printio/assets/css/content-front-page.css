@@ -249,6 +249,12 @@ h2 {
 .philosophy h1 {
   font-size: 1.8rem;
 }
+.philosophy .content .text {
+  display: inline-block;
+}
+.philosophy .content .image {
+  display: inline-block;
+}
 @media screen and (max-width: 768px) {
   .philosophy {
     padding-top: 30px;
@@ -286,6 +292,15 @@ h2 {
     font-size: 12px !important;
     font-weight: bold;
     padding-bottom: 15px;
+  }
+  .philosophy .bg-img-1 .content .text {
+    width: 50%;
+  }
+  .philosophy .bg-img-1 .content .image {
+    width: 40%;
+    height: 60px;
+    background: url(../images/design-01.svg) no-repeat;
+    background-size: contain;
   }
   .philosophy .bg-img-2 {
     position: relative;
