@@ -63,32 +63,32 @@
     <div class="l-globalNavi__wrap">
       <ul class="l-globalNavi__links">
         <li>
-          <div class="l-globalNavi__category__aboutus">
-            <a href="/">ページ1</a>
+          <div class="l-globalNavi__category">
+            <a href="/philosophy">企業理念</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
-          <div class="l-globalNavi__category__news">
-            <a href="/">ページ2</a>
+          <div class="l-globalNavi__category">
+            <a href="/">引越しについて</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
-          <div class="l-globalNavi__category__blog">
-            <a href="/">ページ3</a>
+          <div class="l-globalNavi__category">
+            <a href="/">引越しのお問い合わせ</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
-          <div class="l-globalNavi__category__profile">
-            <a href="/">ページ4</a>
+          <div class="l-globalNavi__category">
+            <a href="/">リクルート</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
         <li>
-          <div class="l-globalNavi__category__contact">
-            <a href="/contact">ページ5</a>
+          <div class="l-globalNavi__category last-category">
+            <a href="/company">会社情報</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>

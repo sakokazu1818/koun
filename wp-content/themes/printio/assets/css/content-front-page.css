@@ -51,6 +51,12 @@ h2 {
     background: url(../images/menu.svg) no-repeat;
     background-size: contain;
   }
+  .l-header .l-header__container .l-globalNavi__category {
+    border-bottom: 1px solid #444;
+  }
+  .l-header .l-header__container .l-globalNavi__category img {
+    margin-right: 24px;
+  }
 }
 .top {
   background-color: #fff;

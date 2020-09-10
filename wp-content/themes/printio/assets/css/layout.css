@@ -283,12 +283,12 @@
 }
 
 .l-globalNavi__links {
-  margin-top: 50px;
+  margin-top: 24px;
 }
 .l-globalNavi__links a {
-  display: block;
+  display: inline-block;
   color: #fff;
-  padding: 0 0 0 20px;
+  padding: 0 0 0 32px;
   height: 50px;
   line-height: 50px;
 }
