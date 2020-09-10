@@ -254,8 +254,11 @@ h2 {
 }
 .philosophy .content .image {
   display: inline-block;
-  width: 46%;
-  height: 60px;
+  position: relative;
+  right: 15px;
+  top: 5px;
+  width: 40%;
+  height: 40px;
   background: url(../images/design-01.svg) no-repeat;
   background-size: contain;
 }
@@ -298,7 +301,7 @@ h2 {
     padding-bottom: 15px;
   }
   .philosophy .bg-img-1 .content .text {
-    width: 50%;
+    width: 56%;
   }
   .philosophy .bg-img-2 {
     position: relative;
