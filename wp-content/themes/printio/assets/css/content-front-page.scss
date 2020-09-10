@@ -365,6 +365,65 @@ h2 {
   }
 }
 
+.company {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .content {
+    .text {
+      display: inline-block;
+    }
+
+    .image {
+      display: inline-block;
+      position: relative;
+      right: 15px;
+      top: 5px;
+      width: 40%;
+      height: 40px;
+      background: url(../images/design-01.svg) no-repeat;
+      background-size: contain;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    padding-top: 30px;
+
+    .bg-img {
+      position: relative;
+      height: 200px;
+      background: url(../images/bg-3.svg) no-repeat;
+      background-size: cover;
+
+      .title {
+        width: 220px;
+        position: relative;
+        z-index: 5;
+        color: #FFF;
+        left: 30px;
+        top: 80px;
+      }
+    }
+
+    .table {
+      margin-top: 32px;
+      margin-bottom: 32px;
+
+      th {
+        vertical-align: middle;
+      }
+    }
+
+    .bg-img2 {
+      position: relative;
+      height: 200px;
+      background: url(../images/bg-4.svg) no-repeat;
+      background-size: cover;
+    }
+  }
+}
+
 .l-footer {
   a {
     color: #C1C1C1;

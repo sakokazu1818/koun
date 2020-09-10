@@ -316,6 +316,54 @@ h2 {
     background-size: cover;
   }
 }
+.company h1 {
+  font-size: 1.8rem;
+}
+.company .content .text {
+  display: inline-block;
+}
+.company .content .image {
+  display: inline-block;
+  position: relative;
+  right: 15px;
+  top: 5px;
+  width: 40%;
+  height: 40px;
+  background: url(../images/design-01.svg) no-repeat;
+  background-size: contain;
+}
+@media screen and (max-width: 768px) {
+  .company {
+    padding-top: 30px;
+  }
+  .company .bg-img {
+    position: relative;
+    height: 200px;
+    background: url(../images/bg-3.svg) no-repeat;
+    background-size: cover;
+  }
+  .company .bg-img .title {
+    width: 220px;
+    position: relative;
+    z-index: 5;
+    color: #fff;
+    left: 30px;
+    top: 80px;
+  }
+  .company .table {
+    margin-top: 32px;
+    margin-bottom: 32px;
+  }
+  .company .table th {
+    vertical-align: middle;
+  }
+  .company .bg-img2 {
+    position: relative;
+    height: 200px;
+    background: url(../images/bg-4.svg) no-repeat;
+    background-size: cover;
+  }
+}
 .l-footer a {
   color: #c1c1c1;
   font-size: 1rem;
