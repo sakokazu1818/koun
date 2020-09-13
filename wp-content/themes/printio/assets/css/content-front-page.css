@@ -22,6 +22,7 @@ h2 {
   }
   .l-header .l-header__container .tell {
     height: 100%;
+    width: 80px;
     background-color: #000;
   }
   .l-header .l-header__container .tell a {
