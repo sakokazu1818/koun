@@ -373,6 +373,74 @@ h2 {
     background-size: cover;
   }
 }
+.recruit {
+  background-color: #fff;
+  padding-bottom: 0px;
+}
+.recruit h1 {
+  font-size: 1.8rem;
+}
+.recruit .content {
+  margin-bottom: 68px;
+}
+.recruit .content .content-title {
+  width: 90%;
+  margin-bottom: 23px;
+}
+.recruit .content .content-title::after {
+  content: "";
+  display: block;
+  width: 32px;
+  height: 3px;
+  background-color: #c49525;
+  position: absolute;
+  margin-top: 10px;
+}
+.recruit .content .img-area {
+  position: relative;
+  background-color: #000;
+  height: 100%;
+  width: auto;
+  margin-left: 20px;
+}
+.recruit .content .img-area img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -20px;
+}
+.recruit .content .img-area-2 {
+  background-color: #000;
+  height: 100%;
+  width: auto;
+  margin-right: 20px;
+}
+.recruit .content .img-area-2 img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -20px;
+}
+.recruit .last-content {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+@media screen and (max-width: 768px) {
+  .recruit .bg-img {
+    position: relative;
+    height: 200px;
+    background: url(../images/bg-5.svg) no-repeat;
+    background-size: cover;
+  }
+  .recruit .bg-img .title {
+    width: 220px;
+    position: relative;
+    z-index: 5;
+    color: #fff;
+    left: 30px;
+    top: 80px;
+  }
+}
 .l-footer a {
   color: #c1c1c1;
   font-size: 1rem;

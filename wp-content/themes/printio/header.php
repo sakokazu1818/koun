@@ -86,7 +86,7 @@
         </li>
         <li>
           <div class="l-globalNavi__category">
-            <a href="/">リクルート</a>
+            <a href="/recruit">リクルート</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>

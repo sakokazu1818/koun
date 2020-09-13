@@ -86,7 +86,7 @@
             <h2>リクルート</h2>
             <div class="mb-3">お客様は、もちろん一緒に働く社員も同じ。一生お付き合いできる会社です</div>
             <div class="mb-2">
-              <a class="btn btn-warning more-btn" href="#" role="button">もっと見る</a>
+              <a class="btn btn-warning more-btn" href="/recruit" role="button">もっと見る</a>
             </div>
             <div>
               <div>
