@@ -7,13 +7,13 @@ h2 {
 }
 @media screen and (max-width: 768px) {
   .l-globalNavi__wrap {
-    top: 30px;
+    top: 50px;
   }
   .l-header {
-    height: 30px;
+    height: 50px;
   }
   .l-header .l-header__container {
-    height: 30px;
+    height: 50px;
     font-size: 1px;
   }
   .l-header .l-header__container .l-header__logo img {
@@ -22,7 +22,7 @@ h2 {
   }
   .l-header .l-header__container .tell {
     height: 100%;
-    background-color: #070506;
+    background-color: #000;
   }
   .l-header .l-header__container .tell a {
     height: 100%;
@@ -30,16 +30,24 @@ h2 {
     justify-content: center;
   }
   .l-header .l-header__container .tell a img {
-    height: auto;
-    width: 60px;
+    height: 100%;
+    width: 72px;
+  }
+  .l-header .l-header__container .inquiry-about-moving {
+    height: 100%;
+    background-color: #c1c1c1;
+    position: relative;
   }
   .l-header .l-header__container .inquiry-about-moving img {
-    height: 30px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 36px;
     width: auto;
   }
   .l-header .l-header__container .l-menuToggle-wrap {
     height: 100%;
-    width: 30px;
+    width: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,7 +76,7 @@ h2 {
 }
 @media screen and (max-width: 768px) {
   .top {
-    padding-top: 30px;
+    padding-top: 50px;
   }
 }
 .top .more-btn {

@@ -43,10 +43,14 @@
       <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/logo.png" alt="幸運引越社センターロゴ"></a>
     </div>
     <div class="tell">
-      <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/tell.svg" alt="tell"></a>
+      <a href="/">
+        <img src="/wp-content/themes/printio/assets/images/tell.svg" alt="tell">
+      </a>
     </div>
     <div class="inquiry-about-moving">
-      <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/inquiry-about-moving.svg" alt="引っ越しについてお問い合わせ"></a>
+      <a href="/" class="is-hover">
+        <img src="/wp-content/themes/printio/assets/images/inquiry-about-moving.svg" alt="引っ越しについてお問い合わせ">
+      </a>
     </div>
     <ul class="l-header__btns">
       <li><a href="/aboutus" class="l-header__btns__registration is-hover is-inline aboutus-link">Printioについて</a></li>
