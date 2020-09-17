@@ -325,6 +325,103 @@ h2 {
     background-size: cover;
   }
 }
+.about-moving h1 {
+  font-size: 1.8rem;
+}
+.about-moving .content .text {
+  display: inline-block;
+}
+@media screen and (max-width: 768px) {
+  .about-moving {
+    padding-top: 30px;
+  }
+  .about-moving h2 {
+    font-size: 12px;
+  }
+  .about-moving .bg-img {
+    position: relative;
+    height: 200px;
+    background: url(../images/about-moving-mv.png) no-repeat;
+    background-size: cover;
+  }
+  .about-moving .bg-img .title {
+    width: 220px;
+    position: relative;
+    z-index: 5;
+    color: #fff;
+    left: 30px;
+    top: 80px;
+  }
+  .about-moving .bg-img .description {
+    position: absolute;
+    bottom: 0px;
+    padding-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 100%;
+    color: #fff;
+    z-index: 5;
+    background-color: rgba(0, 0, 0, .5);
+  }
+  .about-moving .bg-img::after {
+    content: '';
+    background-color: rgba(0, 0, 0, .3);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  .about-moving .area-1 {
+    padding-top: 28px;
+    background-color: #fff;
+  }
+  .about-moving .area-1 h2::before {
+    content: "";
+    display: block;
+    width: 32px;
+    height: 3px;
+    background-color: #c49525;
+    position: absolute;
+    bottom: -8px;
+  }
+  .about-moving .area-1 .text {
+    margin-top: 20px;
+    padding-bottom: 40px;
+  }
+  .about-moving .item {
+    position: relative;
+    z-index: 5;
+    width: 100%;
+    background: linear-gradient(180deg, #fff 0%, #fff 30%, #000 30%, #000 100%);
+  }
+  .about-moving .item img {
+    padding-bottom: 28px;
+  }
+  .about-moving .area-2 {
+    padding-top: 28px;
+    background-color: #fff;
+  }
+  .about-moving .area-2 .text {
+    position: relative;
+    z-index: 2;
+    margin-top: 20px;
+    padding-bottom: 40px;
+  }
+  .about-moving .area-2 .hoge {
+    position: absolute;
+    height: 280px;
+    right: 0px;
+  }
+  .about-moving .area-2 .hoge .item-2 {
+    position: relative;
+    height: 260px;
+    width: auto;
+    right: 0;
+    z-index: 1;
+    top: -60px;
+  }
+}
 .company h1 {
   font-size: 1.8rem;
 }
