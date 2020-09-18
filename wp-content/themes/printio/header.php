@@ -74,7 +74,7 @@
         </li>
         <li>
           <div class="l-globalNavi__category">
-            <a href="/">引越しについて</a>
+            <a href="/about-moving">引越しについて</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
