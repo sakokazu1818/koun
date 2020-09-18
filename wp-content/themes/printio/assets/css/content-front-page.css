@@ -481,7 +481,7 @@ h2 {
   }
   .about-moving .area-3 .contact .inquiry {
     position: relative;
-    font-size: 1px;
+    font-size: 10px;
     margin-bottom: 32px;
     height: 26px;
   }
@@ -557,7 +557,7 @@ h2 {
     position: relative;
   }
   .about-moving .area-4 .image-wraper .inquiry-moving {
-    font-size: 6px;
+    font-size: 10px;
     line-height: 23px;
     position: absolute;
     width: 100%;
@@ -565,24 +565,25 @@ h2 {
     background-color: #c49525;
     text-align: center;
     color: #fff;
-    bottom: 0;
+    bottom: -2px;
   }
   .about-moving .area-4 .image-wraper .inquiry-moving::before {
     content: '>';
-    width: 1px;
-    height: 1px;
+    width: 1rem;
+    height: 1rem;
     line-height: 15px;
     text-align: center;
-    font-size: 1px;
+    font-size: 1rem;
     color: inherit;
     position: absolute;
-    right: 16px;
-    top: 4px;
+    top: 38%;
+    right: 6px;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
   }
   .about-moving .area-4 h2 {
     margin-top: 20px;
+    height: 32px;
   }
   .about-moving .area-4 .line {
     margin-top: 20px;
@@ -591,7 +592,10 @@ h2 {
     height: 4px;
     background-color: #c49525;
   }
-  .about-moving .area-4 .content {
+  .about-moving .area-4 .contact-wrap {
+    height: 60px;
+  }
+  .about-moving .area-4 .contact-wrap .content {
     font-weight: bold;
   }
   .about-moving .area-4 .details-title {

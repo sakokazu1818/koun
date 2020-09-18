@@ -122,8 +122,10 @@ get_header(); ?>
           <h2>一人暮らし・単身引越しの方</h2>
           <div>(1t軽)</div>
           <div class="line"></div>
-          <div class="content">使用車両：1t積載体制軽トラック </div>
-          <div class="content">作業員1名</div>
+          <div class="contact-wrap">
+            <div class="content">使用車両：1t積載体制軽トラック </div>
+            <div class="content">作業員1名</div>
+          </div>
           <div class="details-title">内容</div>
           <div class="details">現在1Ｒ～1Ｋにお一人様でお住まいで、大物家具や家電がほとんど無く、小物やダンボールも少なめの方 実家やレオパレス、友人宅などに仮住まいで住んでいて家具や家電がほとんどない方 家具や家電が3点以内でダンボール荷物もかなり少ない方</div>
         </div>
@@ -135,8 +137,10 @@ get_header(); ?>
           <h2>一人暮らし・単身引越しの方 </h2>
           <div>(2t標準/2tショート)</div>
           <div class="line"></div>
-          <div class="content">使用車両：2t標準（2tショート） </div>
-          <div class="content">作業員2名</div>
+          <div class="contact-wrap">
+            <div class="content">使用車両：2t標準（2tショート） </div>
+            <div class="content">作業員2名</div>
+          </div>
           <div class="details-title">内容</div>
           <div class="details">現在1Ｒ～1ＤＫにお住まいで、冷蔵庫や洗濯機、テレビやテレビ台、ベッドや寝具などの家具や家電も一通りあり、ダンボールが10～20前後位の方 大物家具が5点以内で小物が少なめの方 2名様で1Ｋの間取りにお住まいで、小物やダンボールが少なめの方</div>
         </div>
@@ -150,8 +154,10 @@ get_header(); ?>
           </div>
           <h2>カップル・ご夫婦の引越しの方</h2>
           <div class="line"></div>
-          <div class="content">使用車両：2tロング </div>
-          <div class="content">作業員2名</div>
+          <div class="contact-wrap">
+            <div class="content">使用車両：2tロング </div>
+            <div class="content">作業員2名</div>
+          </div>
           <div class="details-title">内容</div>
           <div class="details">現在1Ｋ～1LDK、又は2DKの間取りに一人様で住んでいて、大物家具や家電が一通り一式あり、小物も多くてダンボールが15～25位はありそうな方 2名様分の荷物でご家財も一式ある方 大人2名、子供1名など3名様分で、小物などの荷物が少なめの方</div>
         </div>
@@ -162,8 +168,10 @@ get_header(); ?>
           </div>
           <h2>カップル・ファミリー引越しの方</h2>
           <div class="line"></div>
-          <div class="content">使用車両：2tロングワイド、3t</div>
-          <div class="content"> 作業員3名</div>
+          <div class="contact-wrap">
+            <div class="content">使用車両：2tロングワイド、3t</div>
+            <div class="content">作業員3名</div>
+          </div>
           <div class="details-title">内容</div>
           <div class="details">段ボールが30個以上で、冷蔵庫や洗濯機、ベッドやソファ、テレビやテレビ台などの一般的な家具や家電をお持ちの方 現在1ＬＤＫ～3ＬＤＫにお住まいで、処分する物以外の全ての荷物を運搬希望の方 3～4名様分の荷物でダンボールや小物、家具や家電の荷物が少ない方</div>
         </div>
