@@ -385,8 +385,10 @@ h2 {
 
   @media screen and (max-width: 768px) {
     padding-top: 30px;
+    padding-bottom: 0px;
+
     h2 {
-      font-size: 12px;
+      font-size: 14px;
     }
 
     .bg-img {
@@ -480,6 +482,214 @@ h2 {
           z-index: 1;
           top: -60px;
         }
+      }
+    }
+
+    .area-3 {
+      background-color: #000;
+      color: #FFF;
+      padding-top: 28px;
+      padding-bottom: 28px;
+
+      .row {
+        position: relative;
+      }
+
+      .description {
+        padding-top: 12px;
+        padding-bottom: 12px;
+
+        .center {
+          padding-top: 6px;
+          padding-bottom: 6px;
+        }
+
+        .text {
+          display: flex;
+          position: relative;
+
+          .ten,.ten-center {
+            min-width: 28px;
+          }
+
+          .ten::before{
+            content: "";
+            display: block;
+            width: 18px;
+            height: 4px;
+            background-color: #C49525;
+            position: absolute;
+            top: 6px;
+          }
+
+          .ten-center::before{
+            content: "";
+            display: block;
+            width: 18px;
+            height: 4px;
+            background-color: #C49525;
+            position: absolute;
+            top: 12px;
+          }
+        }
+      }
+
+      .contact {
+        margin-top: 12px;
+        margin-bottom: 12px;
+
+        .tel {
+          position: relative;
+          font-size: 12px;
+          margin-bottom: 32px;
+          height: 26px;
+
+          .icon {
+            display: inline-block;
+            height: 16px;
+            padding-left: 12px;
+          }
+        }
+
+        .inquiry {
+          position: relative;
+          font-size: 1px;
+          margin-bottom: 32px;
+          height: 26px;
+
+          .icon {
+            display: inline-block;
+            height: 16px;
+            padding-left: 12px;
+          }
+        }
+
+        .tel::before {
+          content: "";
+          display: block;
+          width: 100%;
+          height: 1px;
+          background-color: #C49525;
+          position: absolute;
+          bottom: 0;
+        }
+
+        .tel::after {
+          content: "";
+          display: inline-block;
+          width: 1px;
+          height: 100%;
+          background-color: #C49525;
+          position: absolute;
+          left: 0;
+        }
+
+        .inquiry::before {
+          content: "";
+          display: block;
+          width: 100%;
+          height: 1px;
+          background-color: #C49525;
+          position: absolute;
+          bottom: 0;
+        }
+
+        .inquiry::after {
+          content: "";
+          display: inline-block;
+          width: 1px;
+          height: 100%;
+          background-color: #C49525;
+          position: absolute;
+          left: 0;
+        }
+
+        img {
+          margin-bottom: 32px;
+          height: 26px;
+        }
+      }
+
+      .item-3-wrap {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        width: 46%;
+
+        img {
+          height: 360px;
+          object-fit: cover;
+        }
+      }
+    }
+
+    .area-4 {
+      background-color: #FFF;
+      margin-top: 32px;
+      .pr {
+        padding-right: 7.5px;
+      }
+
+      .pl {
+        padding-left: 7.5px;
+      }
+
+      .image-wraper {
+        position: relative;
+
+        .inquiry-moving {
+          font-size: 6px;
+          line-height: 23px;
+          position: absolute;
+          width: 100%;
+          height: 23px;
+          background-color: #C49525;
+          text-align: center;
+          color: #FFF;
+          bottom: 0;
+        }
+
+        .inquiry-moving::before {
+          content: '>';
+          width: 1px;
+          height: 1px;
+          line-height: 15px;
+          text-align: center;
+          font-size: 1px;
+          color: inherit;
+          position: absolute;
+          right: 16px;
+          top: 4px;
+          -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+        }
+      }
+
+      h2 {
+        margin-top: 20px;
+      }
+
+      .line {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        width: 42px;
+        height: 4px;
+        background-color: #C49525;
+      }
+
+      .content {
+        font-weight: bold;
+      }
+
+      .details-title {
+        margin-top: 10px;
+      }
+
+      .details {
+        margin-bottom: 52px;
       }
     }
   }

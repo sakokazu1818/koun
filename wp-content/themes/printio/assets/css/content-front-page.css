@@ -334,9 +334,10 @@ h2 {
 @media screen and (max-width: 768px) {
   .about-moving {
     padding-top: 30px;
+    padding-bottom: 0px;
   }
   .about-moving h2 {
-    font-size: 12px;
+    font-size: 14px;
   }
   .about-moving .bg-img {
     position: relative;
@@ -420,6 +421,184 @@ h2 {
     right: 0;
     z-index: 1;
     top: -60px;
+  }
+  .about-moving .area-3 {
+    background-color: #000;
+    color: #fff;
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+  .about-moving .area-3 .row {
+    position: relative;
+  }
+  .about-moving .area-3 .description {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .about-moving .area-3 .description .center {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  .about-moving .area-3 .description .text {
+    display: flex;
+    position: relative;
+  }
+  .about-moving .area-3 .description .text .ten, .about-moving .area-3 .description .text .ten-center {
+    min-width: 28px;
+  }
+  .about-moving .area-3 .description .text .ten::before {
+    content: "";
+    display: block;
+    width: 18px;
+    height: 4px;
+    background-color: #c49525;
+    position: absolute;
+    top: 6px;
+  }
+  .about-moving .area-3 .description .text .ten-center::before {
+    content: "";
+    display: block;
+    width: 18px;
+    height: 4px;
+    background-color: #c49525;
+    position: absolute;
+    top: 12px;
+  }
+  .about-moving .area-3 .contact {
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  .about-moving .area-3 .contact .tel {
+    position: relative;
+    font-size: 12px;
+    margin-bottom: 32px;
+    height: 26px;
+  }
+  .about-moving .area-3 .contact .tel .icon {
+    display: inline-block;
+    height: 16px;
+    padding-left: 12px;
+  }
+  .about-moving .area-3 .contact .inquiry {
+    position: relative;
+    font-size: 1px;
+    margin-bottom: 32px;
+    height: 26px;
+  }
+  .about-moving .area-3 .contact .inquiry .icon {
+    display: inline-block;
+    height: 16px;
+    padding-left: 12px;
+  }
+  .about-moving .area-3 .contact .tel::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    background-color: #c49525;
+    position: absolute;
+    bottom: 0;
+  }
+  .about-moving .area-3 .contact .tel::after {
+    content: "";
+    display: inline-block;
+    width: 1px;
+    height: 100%;
+    background-color: #c49525;
+    position: absolute;
+    left: 0;
+  }
+  .about-moving .area-3 .contact .inquiry::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    background-color: #c49525;
+    position: absolute;
+    bottom: 0;
+  }
+  .about-moving .area-3 .contact .inquiry::after {
+    content: "";
+    display: inline-block;
+    width: 1px;
+    height: 100%;
+    background-color: #c49525;
+    position: absolute;
+    left: 0;
+  }
+  .about-moving .area-3 .contact img {
+    margin-bottom: 32px;
+    height: 26px;
+  }
+  .about-moving .area-3 .item-3-wrap {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    width: 46%;
+  }
+  .about-moving .area-3 .item-3-wrap img {
+    height: 360px;
+    object-fit: cover;
+  }
+  .about-moving .area-4 {
+    background-color: #fff;
+    margin-top: 32px;
+  }
+  .about-moving .area-4 .pr {
+    padding-right: 7.5px;
+  }
+  .about-moving .area-4 .pl {
+    padding-left: 7.5px;
+  }
+  .about-moving .area-4 .image-wraper {
+    position: relative;
+  }
+  .about-moving .area-4 .image-wraper .inquiry-moving {
+    font-size: 6px;
+    line-height: 23px;
+    position: absolute;
+    width: 100%;
+    height: 23px;
+    background-color: #c49525;
+    text-align: center;
+    color: #fff;
+    bottom: 0;
+  }
+  .about-moving .area-4 .image-wraper .inquiry-moving::before {
+    content: '>';
+    width: 1px;
+    height: 1px;
+    line-height: 15px;
+    text-align: center;
+    font-size: 1px;
+    color: inherit;
+    position: absolute;
+    right: 16px;
+    top: 4px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .about-moving .area-4 h2 {
+    margin-top: 20px;
+  }
+  .about-moving .area-4 .line {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 42px;
+    height: 4px;
+    background-color: #c49525;
+  }
+  .about-moving .area-4 .content {
+    font-weight: bold;
+  }
+  .about-moving .area-4 .details-title {
+    margin-top: 10px;
+  }
+  .about-moving .area-4 .details {
+    margin-bottom: 52px;
   }
 }
 .company h1 {
