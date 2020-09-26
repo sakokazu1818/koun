@@ -90,7 +90,7 @@
             </div>
             <div>
               <div>
-                <a class="btn btn-warning inquiry-btn" href="#" role="button">リクルートのお問い合わせ</a>
+                <a class="btn btn-warning inquiry-btn" href="/recruit-contact" role="button">リクルートのお問い合わせ</a>
               </div>
             </div>
           </div>

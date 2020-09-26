@@ -372,6 +372,204 @@ h2 {
   }
 }
 
+.contact {
+  @media screen and (max-width: 768px) {
+    padding-top: 30px;
+
+    .bg-img-1 {
+      position: relative;
+      height: 200px;
+      background: url(../images/contact.png) no-repeat;
+      background-size: cover;
+
+      .title {
+        width: 220px;
+        position: relative;
+        z-index: 5;
+        color: #FFF;
+        left: 30px;
+        top: 80px;
+      }
+    }
+
+    .bg-img-1::after {
+      content: '';
+      background-color: rgba(0,0,0,.3);
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+    }
+
+    .bg-img-2 {
+      margin-top: 32px;
+      position: relative;
+      height: 120px;
+      width: 100%;
+      background: url(../images/contact-2.png) no-repeat;
+      background-size: cover;
+    }
+
+    .bg-img-2::before {
+      content: '';
+      background-color: rgba(0,0,0,.3);
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+    }
+
+    h2 {
+      margin-top: 32px;
+      margin-bottom: 32px;
+      text-align: center;
+    }
+
+    h3 {
+      position: relative;
+      padding-top: 32px;
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    .text {
+      font-size: 10px;
+    }
+
+    .annotation-2 {
+      color: red;
+      font-size: 8px;
+      padding-top: 4px;
+    }
+
+    .annotation {
+      padding-top: 16px;
+      color: red;
+    }
+
+    .annotation-3 {
+      padding-top: 32px;
+      font-size: 8px;
+    }
+
+    .form {
+      padding-top: 16px;
+      padding-bottom: 32px;
+
+      p:nth-child(2n) {
+         /* 表の偶数行のみを対象に装飾するCSS */
+         background-color: white;
+      }
+
+      label {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        padding-left: 45px;
+        padding-right: 15px;
+
+        br {
+          display: none;
+        }
+
+        .your-name,.your-email,.tel-861,.your-message {
+          input,textarea {
+            float: right;
+            width: 200px;
+          }
+        }
+      }
+
+      .wpcf7-form {
+        label:not(.message) {
+          height: 40px;
+          top: 12px;
+        }
+
+        label:not(.message)::before{
+          content: "";
+          display: block;
+          width: 18px;
+          height: 8px;
+          background-color: #C49525;
+          position: absolute;
+          top: 6px;
+          left: 15px;
+        }
+
+        .message {
+          padding-top: 6px;
+        }
+
+        .message::before{
+          content: "";
+          display: block;
+          width: 18px;
+          height: 8px;
+          background-color: #C49525;
+          position: absolute;
+          top: 12px;
+          left: 15px;
+        }
+      }
+
+      .submit-btn {
+        position: relative;
+        .ajax-loader {
+          display: none;
+        }
+
+        padding-top: 32px;
+        padding-right: 15px;
+        text-align: right;
+      }
+
+      .wpcf7-submit {
+        width: 120px;
+        height: 26px;
+        background: #C49525;
+        color: #fff;
+        font-size: 10px;
+      }
+
+      .submit-btn::before {
+        content: '>';
+        width: 1rem;
+        height: 1rem;
+        line-height: 15px;
+        text-align: center;
+        font-size: 1rem;
+        color: #fff;
+        position: absolute;
+        top: 72%;
+        right: 27px;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
+
+      .wpcf7-not-valid-tip {
+        font-size: 8px;
+      }
+    }
+
+    .line {
+      width: 100%;
+      height: 2px;
+      background-color: #C49525;
+    }
+
+    .line-2 {
+      width: 32px;
+      height: 4px;
+      margin-top: 6px;
+      margin-bottom: 12px;
+      background-color: #C49525;
+    }
+  }
+}
+
 .about-moving {
   h1 {
     font-size: 1.8rem;

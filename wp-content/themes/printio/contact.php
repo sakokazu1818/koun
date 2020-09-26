@@ -18,23 +18,50 @@
 get_header('top'); ?>
 
 <main class="l-body contact">
-  <section class="c-sub__contents">
+  <section class="">
     <?php if (have_posts()) : the_post(); ?>
-      <div class="l-container01">
-        <h1 class="c-title01"><?php the_title(); ?></h1>
-        <p class="p-contact__text">
-          下記項目にご入力いただき、<a href="/privacy-policy">個人情報の取り扱い</a>に<br>ご同意の上、送信してください。
-        </p>
+      <div class="bg-img-1">
+        <div class="title">
+          <h1><?php the_title(); ?></h1>
+          Inquiries About Recruit
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-6 pr-0">
+            <h3>お問い合わせ【採用について】</h3>
+            <div class="line-2"></div>
+            <div class="text">お問い合せは専用窓口へ電話もしくは下記入力フォームにご記入の上、送信してください。</div>
+            <div class="annotation-2">※お引越日や契約内容変更や資材等の手配・回収に関するご要望はお引越担当支社へお問い合せ下さい。</div>
+          </div>
+          <div class="col-6 d-flex align-items-center">
+            <div class="bg-img-2"></div>
+          </div>
+        </div>
+      </div>
 
+      <h2>お問い合わせ</h2>
+
+      <div class="line"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="annotation">※すべて必須項目となります。</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="form">
         <?php the_content(); ?>
+        <div class="container">
+          <div class="row mt-3 mb-3">
+            <div class="col-12">
+              <div class="annotation-3">幸運引越センターは、個人情報の重要性に鑑み、個人情報の保護に関する法律、その他関連法令等を遵守して、お客様に関する一切の情報を適正に利用・管理するとともに、安全管理について適切な措置を講じ、適宜見直し改善いたします。 また、従業員への教育・指導を徹底し、個人情報の適正な取扱が行われるよう取り組んでまいりますと共に、個人情報の取扱に関する苦情・相談に迅速に対応します。 詳しくは当社のＨＰ個人情報保護方針をご覧下さい。</div>
+            </div>
+          </div>
+        </div>
       </div>
-
-      <div class="p-contact__check">
-        <label class="c-check__input is-form__agree">
-          <input type="checkbox" name="">
-          <span class="c-check__text">個人情報の取り扱いに同意する</span>
-        </label>
-      </div>
+      <div class="line"></div>
     <?php endif; ?>
   </section>
 </main>
