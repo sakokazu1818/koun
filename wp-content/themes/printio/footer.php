@@ -34,7 +34,7 @@
         </div>
 
         <div class="col-4 text-center pl-0 pr-0">
-          <a href="tel:000-1234-5678">
+          <a href="/moving-contact">
             <img class="icon" src="/wp-content/themes/printio/assets/images/icom-inquiry-about-moving.svg" alt="line">
             <div class="company-info-text">引越しのお問い合わせ</div>
           </a>

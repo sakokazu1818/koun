@@ -144,6 +144,9 @@ h2 {
   z-index: 5;
   top: -40px;
 }
+.top .about-moving h2 {
+  font-size: 1.8rem;
+}
 .top .about-moving h2::before {
   content: "";
   display: block;
@@ -380,6 +383,11 @@ h2 {
     font-size: 12px;
     font-weight: bold;
   }
+  .contact .lineat {
+    width: 130px;
+    height: auto;
+    margin-bottom: 12px;
+  }
   .contact .text {
     font-size: 10px;
   }
@@ -414,7 +422,7 @@ h2 {
   .contact .form label br {
     display: none;
   }
-  .contact .form label .your-name input, .contact .form label .your-email input, .contact .form label .tel-861 input, .contact .form label .your-message input, .contact .form label .your-name textarea, .contact .form label .your-email textarea, .contact .form label .tel-861 textarea, .contact .form label .your-message textarea {
+  .contact .form label .your-name input, .contact .form label .your-email input, .contact .form label .tel-861 input, .contact .form label .your-message input, .contact .form label .your-furigana input, .contact .form label .text-zip input, .contact .form label .text-addr input, .contact .form label .type input, .contact .form label .your-name textarea, .contact .form label .your-email textarea, .contact .form label .tel-861 textarea, .contact .form label .your-message textarea, .contact .form label .your-furigana textarea, .contact .form label .text-zip textarea, .contact .form label .text-addr textarea, .contact .form label .type textarea, .contact .form label .your-name select, .contact .form label .your-email select, .contact .form label .tel-861 select, .contact .form label .your-message select, .contact .form label .your-furigana select, .contact .form label .text-zip select, .contact .form label .text-addr select, .contact .form label .type select {
     float: right;
     width: 200px;
   }

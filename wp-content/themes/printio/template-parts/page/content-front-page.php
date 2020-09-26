@@ -70,7 +70,7 @@
       </div>
 
       <div class="text-center">
-        <a class="btn btn-warning inquiry-btn" href="#" role="button">
+        <a class="btn btn-warning inquiry-btn" href="/moving-contact" role="button">
           <img class="inquiry-img" src="/wp-content/themes/printio/assets/images/logo-2.svg" alt="幸運引越社センターロゴ"></img>
           <div class="text">引越しのお問い合わせ</div>
         </a>

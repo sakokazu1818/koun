@@ -48,7 +48,7 @@
       </a>
     </div>
     <div class="inquiry-about-moving">
-      <a href="/" class="is-hover">
+      <a href="/moving-contact" class="is-hover">
         <img src="/wp-content/themes/printio/assets/images/inquiry-about-moving.svg" alt="引っ越しについてお問い合わせ">
       </a>
     </div>
@@ -80,7 +80,7 @@
         </li>
         <li>
           <div class="l-globalNavi__category">
-            <a href="/">引越しのお問い合わせ</a>
+            <a href="/moving-contact">引越しのお問い合わせ</a>
             <img src="/wp-content/themes/printio/assets/images/icons-Next.svg" alt="Next" class="icon-next"></img>
           </div>
         </li>
