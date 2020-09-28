@@ -14,7 +14,7 @@ jQuery(function($){
       break;
   }
 
-  $('.l-menuToggle').on('click',function(){
+  $('.l-menuToggle-wrap').on('click',function(){
     $('body').toggleClass('is-open');
   });
 

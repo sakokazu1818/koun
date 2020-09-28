@@ -52,12 +52,6 @@
         <img src="/wp-content/themes/printio/assets/images/inquiry-about-moving.svg" alt="引っ越しについてお問い合わせ">
       </a>
     </div>
-    <ul class="l-header__btns">
-      <li><a href="/aboutus" class="l-header__btns__registration is-hover is-inline aboutus-link">Printioについて</a></li>
-      <li><a href="/news" class="l-header__btns__registration is-hover is-inline news-link">お知らせ</a></li>
-      <li><a href="/blog" class="l-header__btns__registration is-hover is-inline last blog-link">ブログ</a></li>
-      <li><a href="/contact" class="l-header__btns__registration is-hover is-inline last contact-link">お問い合わせ</a></li>
-    </ul>
 
     <div class="l-menuToggle-wrap is-hover">
       <div class="l-menuToggle">
