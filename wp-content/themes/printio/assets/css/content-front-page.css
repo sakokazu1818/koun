@@ -144,6 +144,12 @@ h2 {
     font-size: 100%;
   }
 }
+.top .carousel-inner {
+  background-color: #fff;
+}
+.top .carousel-inner .carousel-item {
+  background-color: rgba(0, 0, 0, 0.3);
+}
 .top .carousel-item::after {
   content: '';
   background-color: rgba(0, 0, 0, .3);

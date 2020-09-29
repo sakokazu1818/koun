@@ -166,19 +166,19 @@ h2 {
   }
 
   // TODO
-  // .carousel-inner {
-  //   background-color: #BB8E24;
-  //
-  //   .carousel-item {
-  //     background-color: rgba(0, 0, 0, 0.3);
-  //     height: calc(100vh - 80px);
-  //     .main-visual-img {
-  //       width: 100%;
-  //       height: calc(100vh - 80px);
-  //       object-fit: contain;
-  //     }
-  //   }
-  // }
+  .carousel-inner {
+    background-color: #FFF;
+
+    .carousel-item {
+      background-color: rgba(0, 0, 0, 0.3);
+      // height: calc(100vh - 80px);
+      // .main-visual-img {
+      //   width: 100%;
+      //   height: calc(100vh - 80px);
+      //   object-fit: contain;
+      // }
+    }
+  }
 
   .carousel-item::after {
     content: '';

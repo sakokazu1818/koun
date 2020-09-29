@@ -42,9 +42,9 @@
       </div>
     </div>
   </div>
-   <div class="l-container01 l-footer__container sns-area">
+  <div class="l-container01 l-footer__container sns-area">
      <div class="container c-container">
-       <div class="row">
+       <!-- <div class="row">
          <div class="col-4 text-center sns-wrap">
            <a href="https://twitter.com/" class="is-hover" target="_blank">
              <img src="/wp-content/themes/printio/assets/images/line.svg" alt="line">
@@ -65,8 +65,7 @@
              <div class="sns-text">Facebook</div>
            </a>
          </div>
-
-       </div>
+       </div> -->
      </div>
    </div>
 

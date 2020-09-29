@@ -23,19 +23,19 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/FirstSlide.png" alt="First slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FirstSlide.png" alt="First slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/SecondSlide.png" alt="Second slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/SecondSlide.png" alt="Second slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/ThirdSlide.png" alt="Third slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/ThirdSlide.png" alt="Third slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/FourthSlide.png" alt="Fourth slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FourthSlide.png" alt="Fourth slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block main-visual-img" src="wp-content/themes/printio/assets/images/FifthSlide.png" alt="Fifth slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FifthSlide.png" alt="Fifth slide">
         </div>
       </div>
     </div>
