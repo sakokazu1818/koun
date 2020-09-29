@@ -164,6 +164,7 @@ h2 {
   background-color: #bb8e24;
   border-style: none;
   font-size: 1.8rem;
+  width: 340px;
 }
 .top .more-btn::before {
   content: '>';
@@ -250,12 +251,24 @@ h2 {
 .top .company-philosophy h2::before {
   content: "";
   display: block;
-  width: 76px;
+  width: 92px;
   height: 3px;
   background-color: #c49525;
   position: absolute;
   bottom: -4px;
   left: 0;
+}
+@media screen and (max-width: 768px) {
+  .top .company-philosophy h2::before {
+    content: "";
+    display: block;
+    width: 76px;
+    height: 3px;
+    background-color: #c49525;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+  }
 }
 .top .company-philosophy .recurit-img {
   height: 268px;
@@ -273,25 +286,83 @@ h2 {
     left: 0px;
   }
 }
+.top .sp-about-moving-link {
+  display: none;
+}
+.top .pc-about-moving-link {
+  display: none;
+  height: 310px;
+}
+.top .pc-about-moving-link .wrap-link {
+  position: absolute;
+}
+.top .pc-about-moving-link .wrap-link .inquiry-btn {
+  position: relative;
+  top: -100px;
+  left: -60px;
+}
+.top .pc-about-moving-link .wrap-link .more-btn {
+  margin-top: 32px;
+}
+.top .pc-about-moving-link .recurit-img-2 {
+  height: 310px !important;
+}
+.top .pc-about-moving-link .more-btn {
+  position: relative;
+  color: #fff;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 52px;
+  padding-right: 52px;
+  border-radius: 0;
+  background-color: #bb8e24;
+  border-style: none;
+  font-size: 1.8rem;
+  width: 340px;
+}
+.top .pc-about-moving-link .more-btn::before {
+  content: '>';
+  width: 1rem;
+  height: 1rem;
+  line-height: 15px;
+  text-align: center;
+  font-size: 1rem;
+  color: inherit;
+  position: absolute;
+  top: 46%;
+  right: 22px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 .top .about-moving h2 {
   margin-bottom: 14px;
   position: relative;
   font-size: 2.3rem;
 }
-@media screen and (max-width: 768px) {
-  .top .about-moving h2 {
-    font-size: 1.8rem;
-  }
-}
 .top .about-moving h2::before {
   content: "";
   display: block;
-  width: 126px;
+  width: 160px;
   height: 3px;
   background-color: #c49525;
   position: absolute;
   bottom: -4px;
   left: 0;
+}
+@media screen and (max-width: 768px) {
+  .top .about-moving h2 {
+    font-size: 1.8rem;
+  }
+  .top .about-moving h2::before {
+    content: "";
+    display: block;
+    width: 126px;
+    height: 3px;
+    background-color: #c49525;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+  }
 }
 .top .about-moving .inquiry-btn {
   position: relative;
@@ -346,59 +417,65 @@ h2 {
 .top .recurit-info-area h2::before {
   content: "";
   display: block;
-  width: 90px;
+  width: 112px;
   height: 3px;
   background-color: #c49525;
   position: absolute;
   bottom: -4px;
   left: 0;
 }
-.top .recurit-info-area .inquiry-btn {
-  position: relative;
-  color: #fff;
-  width: 100%;
-  border-radius: 0;
-  background-color: #bb8e24;
-  border-style: none;
-  width: 158px;
-}
-.top .recurit-info-area .inquiry-btn {
-  color: #bb8e24;
-  background-color: #fff;
-  border-style: solid;
-  border-color: #bb8e24;
-}
 .top .recurit-info-area .recurit-img {
   width: 100%;
   height: auto;
 }
-.top .recurit-info-area .inquiry-btn::before {
-  content: '>';
-  width: 1rem;
-  height: 1rem;
-  line-height: 15px;
-  text-align: center;
-  font-size: 1rem;
-  color: inherit;
-  position: absolute;
-  top: 38%;
-  right: 3px;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
+.top .recurit-info-area .pc-more {
+  margin-top: 74px;
+  margin-bottom: 20px;
 }
-.top .recurit-info-area .more-btn::before {
-  content: '>';
-  width: 1rem;
-  height: 1rem;
-  line-height: 15px;
-  text-align: center;
-  font-size: 1rem;
-  color: inherit;
-  position: absolute;
-  top: 38%;
-  right: 6px;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
+.top .recurit-info-area .pc-inquiry-btn {
+  color: #bb8e24;
+  border-radius: 0;
+  background-color: #fff;
+  border-style: none;
+  border-style: solid;
+  border-color: #bb8e24;
+}
+@media screen and (max-width: 768px) {
+  .top .recurit-info-area h2::before {
+    content: "";
+    display: block;
+    width: 90px;
+    height: 3px;
+    background-color: #c49525;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+  }
+  .top .recurit-info-area .inquiry-btn {
+    position: relative;
+    color: #bb8e24;
+    width: 100%;
+    border-radius: 0;
+    background-color: #fff;
+    border-style: none;
+    width: 158px;
+    border-style: solid;
+    border-color: #bb8e24;
+  }
+  .top .recurit-info-area .inquiry-btn::before {
+    content: '>';
+    width: 1rem;
+    height: 1rem;
+    line-height: 15px;
+    text-align: center;
+    font-size: 1rem;
+    color: inherit;
+    position: absolute;
+    top: 38%;
+    right: 3px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
 }
 .philosophy h1 {
   font-size: 1.8rem;

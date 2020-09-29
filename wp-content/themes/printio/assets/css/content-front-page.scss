@@ -201,6 +201,7 @@ h2 {
     background-color: #BB8E24;
     border-style: none;
     font-size: 1.8rem;
+    width: 340px;
   }
 
   .more-btn::before {
@@ -301,12 +302,25 @@ h2 {
     h2::before{
       content: "";
       display: block;
-      width: 76px;
+      width: 92px;
       height: 3px;
       background-color: #C49525;
       position: absolute;
       bottom: -4px;
       left: 0;
+    }
+
+    @media screen and (max-width: 768px) {
+      h2::before{
+        content: "";
+        display: block;
+        width: 76px;
+        height: 3px;
+        background-color: #C49525;
+        position: absolute;
+        bottom: -4px;
+        left: 0;
+      }
     }
 
     .recurit-img {
@@ -328,6 +342,62 @@ h2 {
     }
   }
 
+  .sp-about-moving-link {
+    display: none;
+  }
+
+  .pc-about-moving-link {
+    display: none;
+    height: 310px;
+
+    .wrap-link {
+      position: absolute;
+
+      .inquiry-btn {
+        position: relative;
+        top: -100px;
+        left: -60px;
+      }
+
+      .more-btn {
+        margin-top: 32px;
+      }
+    }
+
+    .recurit-img-2 {
+      height: 310px !important;
+    }
+
+    .more-btn {
+      position: relative;
+      color: #FFFFFF;
+      padding-top: 16px;
+      padding-bottom: 16px;
+      padding-left: 52px;
+      padding-right: 52px;
+      border-radius: 0;
+      background-color: #BB8E24;
+      border-style: none;
+      font-size: 1.8rem;
+      width: 340px;
+    }
+
+    .more-btn::before {
+      content: '>';
+      width: 1rem;
+      height: 1rem;
+      line-height: 15px;
+      text-align: center;
+      font-size: 1rem;
+      color: inherit;
+      position: absolute;
+      top: 46%;
+      right: 22px;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  }
+
   .about-moving {
     h2 {
       margin-bottom: 14px;
@@ -335,21 +405,32 @@ h2 {
       font-size: 2.3rem;
     }
 
-    @media screen and (max-width: 768px) {
-      h2 {
-        font-size: 1.8rem;
-      }
-    }
-
     h2::before{
       content: "";
       display: block;
-      width: 126px;
+      width: 160px;
       height: 3px;
       background-color: #C49525;
       position: absolute;
       bottom: -4px;
       left: 0;
+    }
+
+    @media screen and (max-width: 768px) {
+      h2 {
+        font-size: 1.8rem;
+      }
+
+      h2::before{
+        content: "";
+        display: block;
+        width: 126px;
+        height: 3px;
+        background-color: #C49525;
+        position: absolute;
+        bottom: -4px;
+        left: 0;
+      }
     }
 
     .inquiry-btn {
@@ -411,7 +492,7 @@ h2 {
     h2::before{
       content: "";
       display: block;
-      width: 90px;
+      width: 112px;
       height: 3px;
       background-color: #C49525;
       position: absolute;
@@ -419,56 +500,63 @@ h2 {
       left: 0;
     }
 
-    .inquiry-btn {
-      position: relative;
-      color: #FFFFFF;
-      width: 100%;
-      border-radius: 0;
-      background-color: #BB8E24;
-      border-style: none;
-      width: 158px;
-    }
-
-    .inquiry-btn {
-      color: #BB8E24;
-      background-color: #FFF;
-      border-style: solid;
-      border-color: #BB8E24;
-    }
-
     .recurit-img {
       width: 100%;
       height: auto;
     }
 
-    .inquiry-btn::before {
-      content: '>';
-      width: 1rem;
-      height: 1rem;
-      line-height: 15px;
-      text-align: center;
-      font-size: 1rem;
-      color: inherit;
-      position: absolute;
-      top: 38%;
-      right: 3px;
-      -webkit-transform: translateY(-50%);
-      transform: translateY(-50%);
+    .pc-more {
+      margin-top: 74px;
+      margin-bottom: 20px;
     }
 
-    .more-btn::before {
-      content: '>';
-      width: 1rem;
-      height: 1rem;
-      line-height: 15px;
-      text-align: center;
-      font-size: 1rem;
-      color: inherit;
-      position: absolute;
-      top: 38%;
-      right: 6px;
-      -webkit-transform: translateY(-50%);
-      transform: translateY(-50%);
+    .pc-inquiry-btn {
+      color: #BB8E24;
+      border-radius: 0;
+      background-color: #FFF;
+      border-style: none;
+      border-style: solid;
+      border-color: #BB8E24;
+    }
+
+    @media screen and (max-width: 768px) {
+      h2::before{
+        content: "";
+        display: block;
+        width: 90px;
+        height: 3px;
+        background-color: #C49525;
+        position: absolute;
+        bottom: -4px;
+        left: 0;
+      }
+
+      .inquiry-btn {
+        position: relative;
+        color: #BB8E24;
+        width: 100%;
+        border-radius: 0;
+        background-color: #FFF;
+        border-style: none;
+        width: 158px;
+        border-style: solid;
+        border-color: #BB8E24;
+      }
+
+      .inquiry-btn::before {
+        content: '>';
+        width: 1rem;
+        height: 1rem;
+        line-height: 15px;
+        text-align: center;
+        font-size: 1rem;
+        color: inherit;
+        position: absolute;
+        top: 38%;
+        right: 3px;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
     }
   }
 }

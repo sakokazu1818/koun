@@ -62,7 +62,31 @@
     </div>
   </section>
 	<section class="c-contents">
-		<div class="l-container01 about-moving">
+    <div class="container about-moving pc-about-moving-link">
+      <div class="row">
+        <div class="col-6">
+          <div class="wrap-link">
+            <h2>引越しについて</h2>
+            <div class="h2-text">お客様の引越しに関わる全てをトータルサポート</div>
+            <div class="mb-2">
+              <a class="btn btn-warning more-btn" href="/about-moving" role="button">もっと見る</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-6">
+          <div class="wrap-link">
+            <img class="recurit-img" src="/wp-content/themes/printio/assets/images/staff.svg" alt="リクルート"></img>
+            <a class="btn btn-warning inquiry-btn" href="/moving-contact" role="button">
+              <img class="inquiry-img" src="/wp-content/themes/printio/assets/images/logo-2.svg" alt="幸運引越社センターロゴ"></img>
+              <div class="text">引越しのお問い合わせ</div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+		<div class="l-container01 about-moving sp-about-moving-link">
       <h2>引越しについて</h2>
       <div class="h2-text">お客様の引越しに関わる全てをトータルサポート</div>
       <div class="mb-2 mt-3">
@@ -77,9 +101,10 @@
       </div>
     </div>
 	</section>
-  <img class="recurit-img" src="/wp-content/themes/printio/assets/images/staff.svg" alt="リクルート"></img>
+  <img class="recurit-img sp-about-moving-link" src="/wp-content/themes/printio/assets/images/staff.svg" alt="リクルート"></img>
+
   <section class="c-contents">
-    <div class="l-container01 recurit-info-area">
+    <div class="l-container01 recurit-info-area sp-about-moving-link">
       <div class="container c-container">
         <div class="row">
           <div class="col-6">
@@ -100,6 +125,30 @@
           </div>
         </div>
       </div>
+    </div>
+
+    <div class="l-container01 recurit-info-area pc-about-moving-link">
+      <div class="container c-container">
+        <div class="row">
+          <div class="col-6 text-left">
+            <img class="recurit-img-2" src="/wp-content/themes/printio/assets/images/recurit.svg" alt="リクルート"></img>
+          </div>
+
+          <div class="col-6">
+            <h2>リクルート</h2>
+            <div class="mb-3 h2-text">お客様は、もちろん一緒に働く社員も同じ。一生お付き合いできる会社です</div>
+            <div class="mb-2">
+              <a class="btn btn-warning more-btn pc-more" href="/recruit" role="button">もっと見る</a>
+            </div>
+            <div>
+              <div>
+                <a class="btn btn-warning more-btn pc-inquiry-btn" href="/recruit-contact" role="button">リクルートのお問い合わせ</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     </section>
   </div>
 </main>

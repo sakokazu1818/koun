@@ -73,9 +73,15 @@ jQuery(function($){
     var spNotice = $('.sp-notice');
     var pcNotice = $('.pc-notice');
 
+    var pcAboutMovingLink = $('.pc-about-moving-link');
+    var spAboutMovingLink = $('.sp-about-moving-link');
+
     if (w <= x) {
       pcMvText.css('visibility','hidden');
       spMvText.css('visibility','visible');
+
+      spAboutMovingLink.show();
+      pcAboutMovingLink.hide();
 
       pcNotice.hide();
       spNotice.show();
@@ -96,6 +102,9 @@ jQuery(function($){
     } else {
       spMvText.css('visibility','hidden');
       pcMvText.css('visibility','visible');
+
+      spAboutMovingLink.hide();
+      pcAboutMovingLink.show();
 
       spNotice.hide();
       pcNotice.show();
