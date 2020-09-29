@@ -53,7 +53,7 @@
         </div>
         <div class="col-6 pl-0">
           <h2>企業理念</h2>
-          <div>引越を通じて、お客様と一生涯のお付き合いができる関係を作り上げていく。</div>
+          <div class="h2-text">引越を通じて、お客様と一生涯のお付き合いができる関係を作り上げていく。</div>
           <div class="wrap-more-btn">
             <a class="btn btn-warning more-btn" href="/philosophy" role="button">もっと見る</a>
           </div>
@@ -64,7 +64,7 @@
 	<section class="c-contents">
 		<div class="l-container01 about-moving">
       <h2>引越しについて</h2>
-      <div>お客様の引越しに関わる全てをトータルサポート</div>
+      <div class="h2-text">お客様の引越しに関わる全てをトータルサポート</div>
       <div class="mb-2 mt-3">
         <a class="btn btn-warning more-btn" href="/about-moving" role="button">もっと見る</a>
       </div>
@@ -84,7 +84,7 @@
         <div class="row">
           <div class="col-6">
             <h2>リクルート</h2>
-            <div class="mb-3">お客様は、もちろん一緒に働く社員も同じ。一生お付き合いできる会社です</div>
+            <div class="mb-3 h2-text">お客様は、もちろん一緒に働く社員も同じ。一生お付き合いできる会社です</div>
             <div class="mb-2">
               <a class="btn btn-warning more-btn" href="/recruit" role="button">もっと見る</a>
             </div>

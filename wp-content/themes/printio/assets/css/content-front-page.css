@@ -130,19 +130,40 @@ h2 {
 .top h2 {
   margin-bottom: 14px;
   position: relative;
+  font-size: 2.3rem;
+}
+.top .h2-text {
+  margin-top: 24px;
+  font-size: 1.6rem;
 }
 @media screen and (max-width: 768px) {
-  .top {
-    padding-top: 50px;
+  .top h2 {
+    font-size: 1.8rem;
   }
+  .top .h2-text {
+    font-size: 100%;
+  }
+}
+.top .carousel-item::after {
+  content: '';
+  background-color: rgba(0, 0, 0, .3);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
 }
 .top .more-btn {
   position: relative;
   color: #fff;
-  width: 158px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 42px;
+  padding-right: 42px;
   border-radius: 0;
   background-color: #bb8e24;
   border-style: none;
+  font-size: 1.8rem;
 }
 .top .more-btn::before {
   content: '>';
@@ -153,18 +174,58 @@ h2 {
   font-size: 1rem;
   color: inherit;
   position: absolute;
-  top: 38%;
-  right: 6px;
+  top: 46%;
+  right: 12px;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+.top .wrap-more-btn {
+  padding-top: 38px;
+  text-align: right;
+}
+@media screen and (max-width: 768px) {
+  .top {
+    padding-top: 50px;
+  }
+  .top .carousel-item {
+    height: auto;
+  }
+  .top .carousel-item .main-visual-img {
+    width: 100%;
+    height: 230px !important;
+    object-fit: cover;
+  }
+  .top .wrap-more-btn {
+    padding-top: 18px;
+    text-align: left;
+  }
+  .top .more-btn {
+    position: relative;
+    color: #fff;
+    width: 158px;
+    border-radius: 0;
+    background-color: #bb8e24;
+    border-style: none;
+    font-size: 100%;
+    padding: 0.375rem 0.75rem;
+  }
+  .top .more-btn::before {
+    content: '>';
+    width: 1rem;
+    height: 1rem;
+    line-height: 15px;
+    text-align: center;
+    font-size: 1rem;
+    color: inherit;
+    position: absolute;
+    top: 38%;
+    right: 6px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+}
 .top .l-body .p-mainImage__txt h1 {
   font-size: 2rem;
-}
-.top .l-body .main-visual-img {
-  width: 100%;
-  height: 230px !important;
-  object-fit: cover;
 }
 .top .l-body .carousel-indicators .active {
   background-color: #bb8e24;
@@ -174,8 +235,13 @@ h2 {
   padding-bottom: 2%;
 }
 .top .black-box .content {
-  height: 60px;
+  height: 120px;
   background-color: #000;
+}
+@media screen and (max-width: 768px) {
+  .top .black-box .content {
+    height: 60px;
+  }
 }
 .top .company-philosophy {
   margin-bottom: 10px;
@@ -190,18 +256,31 @@ h2 {
   bottom: -4px;
   left: 0;
 }
-.top .company-philosophy .wrap-more-btn {
-  padding-top: 18px;
-}
 .top .company-philosophy .recurit-img {
-  height: 148px;
+  height: 268px;
+  width: 500px;
   object-fit: cover;
   position: relative;
   z-index: 5;
-  top: -40px;
+  top: -90px;
+  left: 8px;
+}
+@media screen and (max-width: 768px) {
+  .top .company-philosophy .recurit-img {
+    height: 148px;
+    top: -40px;
+    left: 0px;
+  }
 }
 .top .about-moving h2 {
-  font-size: 1.8rem;
+  margin-bottom: 14px;
+  position: relative;
+  font-size: 2.3rem;
+}
+@media screen and (max-width: 768px) {
+  .top .about-moving h2 {
+    font-size: 1.8rem;
+  }
 }
 .top .about-moving h2::before {
   content: "";
