@@ -195,8 +195,8 @@ h2 {
     color: #FFFFFF;
     padding-top: 16px;
     padding-bottom: 16px;
-    padding-left: 42px;
-    padding-right: 42px;
+    padding-left: 52px;
+    padding-right: 52px;
     border-radius: 0;
     background-color: #BB8E24;
     border-style: none;
@@ -213,7 +213,7 @@ h2 {
     color: inherit;
     position: absolute;
     top: 46%;
-    right: 12px;
+    right: 22px;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
   }
@@ -221,6 +221,7 @@ h2 {
   .wrap-more-btn {
     padding-top: 38px;
     text-align: right;
+    margin-right: 3%;
   }
 
   @media screen and (max-width: 768px) {
@@ -320,8 +321,8 @@ h2 {
 
     @media screen and (max-width: 768px) {
       .recurit-img {
-        height: 148px;
-        top: -40px;
+        height: 17.3em;
+        top: -4em;
         left: 0px;
       }
     }
