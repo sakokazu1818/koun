@@ -1,4 +1,4 @@
-jQuery(function($){
+jQuery(function($) {
   switch(location.pathname) {
     case '/aboutus':
       $('.l-header__btns .aboutus-link').addClass('disabled');
@@ -63,7 +63,7 @@ jQuery(function($){
     });
   }
 
-  $(window).on('load resize', function(){
+  $(window).on('load resize', function() {
     var w = $(window).width();
     var x = 768;
 
@@ -110,5 +110,9 @@ jQuery(function($){
       pcNotice.show();
     }
 
+  });
+
+  $(window).on('load', function() {
+    $('body').css('visibility', 'visible');
   });
 });

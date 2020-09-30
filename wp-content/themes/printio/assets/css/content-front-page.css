@@ -1,3 +1,12 @@
+body {
+  visibility: hidden;
+}
+.is-sp {
+  display: none;
+}
+.is-pc {
+  display: none;
+}
 .c-container {
   padding-left: 0;
   padding-right: 0;
@@ -292,11 +301,7 @@ h2 {
     left: 0px;
   }
 }
-.top .is-sp {
-  display: none;
-}
 .top .is-pc {
-  display: none;
   height: 310px;
 }
 .top .is-pc .wrap-link {
@@ -483,8 +488,11 @@ h2 {
     transform: translateY(-50%);
   }
 }
+.philosophy {
+  padding-top: 80px;
+}
 .philosophy h1 {
-  font-size: 1.8rem;
+  font-size: 4rem;
 }
 .philosophy .content .text {
   display: inline-block;
@@ -492,16 +500,66 @@ h2 {
 .philosophy .content .image {
   display: inline-block;
   position: relative;
-  right: 15px;
+  right: -82px;
   top: 5px;
   width: 40%;
-  height: 40px;
+  height: 120px;
   background: url(../images/design-01.svg) no-repeat;
   background-size: contain;
 }
+.philosophy .bg-img-1 {
+  position: relative;
+  height: 600px;
+  background: url(../images/bg-1.svg) no-repeat;
+  background-size: cover;
+}
+.philosophy .bg-img-1 .title {
+  position: relative;
+  z-index: 5;
+  color: #fff;
+  left: 30px;
+  top: 260px;
+  font-size: 3rem;
+}
+.philosophy .bg-img-1 .content {
+  width: 80%;
+  position: relative;
+  z-index: 5;
+  color: #000;
+  left: 0px;
+  top: 360px;
+  font-size: 1em;
+  padding-left: 30px;
+  padding-top: 15px;
+  background-color: #fff;
+}
+.philosophy .bg-img-1 .content .pb-60p {
+  padding-bottom: 60px;
+}
+.philosophy .bg-img-1 .content .pb-30p {
+  padding-bottom: 30px;
+}
+.philosophy .bg-img-1 .content .content-title {
+  font-size: 3rem;
+  font-weight: bold;
+  padding-top: 60px;
+  padding-bottom: 52px;
+}
+.philosophy .bg-img-1 .content .text {
+  width: 50%;
+}
+.philosophy .bg-img-2 {
+  position: relative;
+  height: 600px;
+  background: url(../images/bg-2.svg) no-repeat;
+  background-size: cover;
+}
 @media screen and (max-width: 768px) {
   .philosophy {
-    padding-top: 30px;
+    padding-top: 50px;
+  }
+  .philosophy h1 {
+    font-size: 1.8rem;
   }
   .philosophy .bg-img-1 {
     position: relative;
@@ -511,6 +569,7 @@ h2 {
   }
   .philosophy .bg-img-1 .title {
     width: 120px;
+    font-size: 100%;
     position: relative;
     z-index: 5;
     color: #fff;
@@ -532,10 +591,21 @@ h2 {
   .philosophy .bg-img-1 .content .pb-15p {
     padding-bottom: 15px;
   }
+  .philosophy .bg-img-1 .content .image {
+    display: inline-block;
+    position: relative;
+    right: 15px;
+    top: 5px;
+    width: 40%;
+    height: 40px;
+    background: url(../images/design-01.svg) no-repeat;
+    background-size: contain;
+  }
   .philosophy .bg-img-1 .content .content-title {
     font-size: 12px !important;
     font-weight: bold;
     padding-bottom: 15px;
+    padding-top: 0px;
   }
   .philosophy .bg-img-1 .content .text {
     width: 56%;
