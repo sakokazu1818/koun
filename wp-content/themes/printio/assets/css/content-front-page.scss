@@ -374,6 +374,15 @@ h2 {
 
     .recurit-img-2 {
       height: 310px !important;
+      object-fit: cover;
+    }
+
+    .recruit-item {
+      position: relative;
+      .more-wrap {
+        position: absolute;
+        bottom: 0px;
+      }
     }
 
     .more-btn {

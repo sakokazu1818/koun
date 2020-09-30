@@ -318,6 +318,14 @@ h2 {
 }
 .top .is-pc .recurit-img-2 {
   height: 310px !important;
+  object-fit: cover;
+}
+.top .is-pc .recruit-item {
+  position: relative;
+}
+.top .is-pc .recruit-item .more-wrap {
+  position: absolute;
+  bottom: 0px;
 }
 .top .is-pc .more-btn {
   position: relative;

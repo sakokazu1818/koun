@@ -134,13 +134,13 @@
             <img class="recurit-img-2" src="/wp-content/themes/printio/assets/images/recurit.svg" alt="リクルート"></img>
           </div>
 
-          <div class="col-6">
+          <div class="col-6 recruit-item">
             <h2>リクルート</h2>
-            <div class="mb-3 h2-text">お客様は、もちろん一緒に働く社員も同じ。一生お付き合いできる会社です</div>
-            <div class="mb-2">
-              <a class="btn btn-warning more-btn pc-more" href="/recruit" role="button">もっと見る</a>
-            </div>
-            <div>
+            <div class="h2-text">お客様は、もちろん一緒に働く社員も同じ。一生お付き合いできる会社です</div>
+            <div class="more-wrap">
+              <div>
+                <a class="btn btn-warning more-btn pc-more" href="/recruit" role="button">もっと見る</a>
+              </div>
               <div>
                 <a class="btn btn-warning more-btn pc-inquiry-btn" href="/recruit-contact" role="button">リクルートのお問い合わせ</a>
               </div>
