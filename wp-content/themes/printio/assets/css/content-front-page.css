@@ -17,7 +17,7 @@ h2 {
 .l-globalNavi__wrap {
   top: 80px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .l-globalNavi__wrap {
     top: 50px;
   }
@@ -73,7 +73,7 @@ h2 {
 .l-header .l-globalNavi__category img {
   margin-right: 24px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .l-header {
     height: 50px;
   }
@@ -145,7 +145,7 @@ h2 {
   margin-top: 24px;
   font-size: 1.6rem;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .top h2 {
     font-size: 1.8rem;
   }
@@ -200,7 +200,7 @@ h2 {
   text-align: right;
   margin-right: 3%;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .top {
     padding-top: 50px;
   }
@@ -255,7 +255,7 @@ h2 {
   height: 120px;
   background-color: #000;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .top .black-box .content {
     height: 60px;
   }
@@ -273,7 +273,7 @@ h2 {
   bottom: -4px;
   left: 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .top .company-philosophy h2::before {
     content: "";
     display: block;
@@ -294,7 +294,7 @@ h2 {
   top: -90px;
   left: 8px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .top .company-philosophy .recurit-img {
     height: 17.3em;
     top: -4em;
@@ -360,7 +360,7 @@ h2 {
   bottom: -4px;
   left: 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .top .about-moving h2 {
     font-size: 1.8rem;
   }
@@ -451,7 +451,7 @@ h2 {
   border-style: solid;
   border-color: #bb8e24;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .top .recurit-info-area h2::before {
     content: "";
     display: block;
@@ -554,7 +554,7 @@ h2 {
   background: url(../images/bg-2.svg) no-repeat;
   background-size: cover;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .philosophy {
     padding-top: 50px;
   }
@@ -617,7 +617,7 @@ h2 {
     background-size: cover;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .contact {
     padding-top: 30px;
   }
@@ -794,7 +794,7 @@ h2 {
 .about-moving .content .text {
   display: inline-block;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .about-moving {
     padding-top: 30px;
     padding-bottom: 0px;
@@ -1084,7 +1084,7 @@ h2 {
   background: url(../images/design-01.svg) no-repeat;
   background-size: contain;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .company {
     padding-top: 30px;
   }
@@ -1168,7 +1168,7 @@ h2 {
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .recruit .bg-img {
     position: relative;
     height: 200px;

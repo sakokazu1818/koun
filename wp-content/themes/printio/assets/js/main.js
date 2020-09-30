@@ -65,7 +65,7 @@ jQuery(function($) {
 
   $(window).on('load resize', function() {
     var w = $(window).width();
-    var x = 768;
+    var x = 767;
 
     var spMvText = $('.js-sp-p-mainImage__txt');
     var pcMvText = $('.js-pc-p-mainImage__txt');
