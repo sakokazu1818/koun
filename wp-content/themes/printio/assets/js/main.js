@@ -73,8 +73,8 @@ jQuery(function($){
     var spNotice = $('.sp-notice');
     var pcNotice = $('.pc-notice');
 
-    var pcAboutMovingLink = $('.pc-about-moving-link');
-    var spAboutMovingLink = $('.sp-about-moving-link');
+    var pcAboutMovingLink = $('.is-pc');
+    var spAboutMovingLink = $('.is-sp');
 
     if (w <= x) {
       pcMvText.css('visibility','hidden');

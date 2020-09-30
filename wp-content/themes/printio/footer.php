@@ -15,7 +15,8 @@
 ?>
 <?php wp_footer(); ?>
 <footer class="l-footer">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51798.62044172689!2d139.6948194967401!3d35.765210949646765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601892f5059402eb%3A0x1ae9c9853eb9ce72!2z5p2x5Lqs6YO95YyX5Yy6!5e0!3m2!1sja!2sjp!4v1597820084080!5m2!1sja!2sjp" width="100%" height="140px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  <iframe class="is-sp" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51798.62044172689!2d139.6948194967401!3d35.765210949646765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601892f5059402eb%3A0x1ae9c9853eb9ce72!2z5p2x5Lqs6YO95YyX5Yy6!5e0!3m2!1sja!2sjp!4v1597820084080!5m2!1sja!2sjp" width="100%" height="140px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  <iframe class="is-pc" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51798.62044172689!2d139.6948194967401!3d35.765210949646765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601892f5059402eb%3A0x1ae9c9853eb9ce72!2z5p2x5Lqs6YO95YyX5Yy6!5e0!3m2!1sja!2sjp!4v1597820084080!5m2!1sja!2sjp" width="100%" height="420px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
   <div class="l-container01 l-footer__container company-info-area">
     <div class="container c-container">
       <div class="row">
