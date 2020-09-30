@@ -23,7 +23,7 @@ h2 {
   }
 }
 .l-header .l-header__logo img {
-  height: 52px;
+  height: 2.8rem;
   width: auto;
 }
 .l-header .tell {
@@ -173,13 +173,13 @@ h2 {
   color: #fff;
   padding-top: 16px;
   padding-bottom: 16px;
-  padding-left: 52px;
-  padding-right: 52px;
+  padding-left: 40px;
+  padding-right: 40px;
   border-radius: 0;
   background-color: #bb8e24;
   border-style: none;
   font-size: 1.8rem;
-  width: 340px;
+  width: 30rem;
 }
 .top .more-btn::before {
   content: '>';
@@ -306,6 +306,7 @@ h2 {
 }
 .top .is-pc .wrap-link {
   position: absolute;
+  padding-right: 26px;
 }
 .top .is-pc .wrap-link .inquiry-btn {
   position: relative;
@@ -323,13 +324,13 @@ h2 {
   color: #fff;
   padding-top: 16px;
   padding-bottom: 16px;
-  padding-left: 52px;
-  padding-right: 52px;
+  padding-left: 40px;
+  padding-right: 40px;
   border-radius: 0;
   background-color: #bb8e24;
   border-style: none;
   font-size: 1.8rem;
-  width: 340px;
+  width: 30rem;
 }
 .top .is-pc .more-btn::before {
   content: '>';
@@ -359,21 +360,6 @@ h2 {
   position: absolute;
   bottom: -4px;
   left: 0;
-}
-@media screen and (max-width: 767px) {
-  .top .about-moving h2 {
-    font-size: 1.8rem;
-  }
-  .top .about-moving h2::before {
-    content: "";
-    display: block;
-    width: 126px;
-    height: 3px;
-    background-color: #c49525;
-    position: absolute;
-    bottom: -4px;
-    left: 0;
-  }
 }
 .top .about-moving .inquiry-btn {
   position: relative;
@@ -417,6 +403,64 @@ h2 {
   right: 18px;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
+}
+@media screen and (max-width: 767px) {
+  .top .about-moving h2 {
+    font-size: 1.8rem;
+  }
+  .top .about-moving h2::before {
+    content: "";
+    display: block;
+    width: 126px;
+    height: 3px;
+    background-color: #c49525;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+  }
+  .top .about-moving .inquiry-btn {
+    position: relative;
+    z-index: 5;
+    width: 280px;
+    height: 100px;
+    top: 50px;
+    color: #bb8e24;
+    background-color: #fff;
+    border-color: #bb8e24;
+    position: relative;
+    border-radius: 0;
+  }
+  .top .about-moving .inquiry-btn .inquiry-img {
+    display: inline-block;
+    height: 60px;
+    position: relative;
+    top: 50%;
+    right: 18px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .top .about-moving .inquiry-btn .text {
+    color: #070506;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    display: inline-block;
+  }
+  .top .about-moving .inquiry-btn::before {
+    content: '>';
+    width: 1rem;
+    height: 1rem;
+    line-height: 15px;
+    text-align: center;
+    font-size: 1rem;
+    color: inherit;
+    position: absolute;
+    top: 47%;
+    right: 18px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
 }
 .top .recurit-info-area {
   margin-top: 42px;
@@ -500,7 +544,7 @@ h2 {
 .philosophy .content .image {
   display: inline-block;
   position: relative;
-  right: -82px;
+  right: -10%;
   top: 5px;
   width: 40%;
   height: 120px;
@@ -530,6 +574,7 @@ h2 {
   top: 360px;
   font-size: 1em;
   padding-left: 30px;
+  padding-right: 30px;
   padding-top: 15px;
   background-color: #fff;
 }

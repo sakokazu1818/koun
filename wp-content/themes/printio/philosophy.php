@@ -25,12 +25,7 @@ get_header(); ?>
         Corporate Philosophy
       </div>
       <div class="content">
-        <h2 class="content-title is-sp">引越を通じて、お客様と一生涯の
-          <br>お付き合いができる関係を 作り上げていく。
-        </h2>
-
-        <h2 class="content-title is-pc">引越を通じて、お客様と一生涯のお付き合いができる関係を作り上げていく。
-        </h2>
+        <h2 class="content-title">引越を通じて、お客様と一生涯のお付き合いができる関係を作り上げていく。</h2>
 
         <div class="is-sp">
           <p>私たちは、単なる 【 引越センター社】ではなく</p>
@@ -46,8 +41,8 @@ get_header(); ?>
           <p>お客様の悩み、夢、新生活を</p>
           <p>トータルサポートすることで</p>
           <p>生涯お付き合いができる会社</p>
-          <p>としての想いから作られたのが</p>
-          <p>この企業理念であり</p>
+          <p>としての想いから作られた</p>
+          <p>のがこの企業理念であり</p>
           <p class="pb-15p">私たちの目的です。</p>
         </div>
 

@@ -36,7 +36,7 @@
   background-position: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .p-mainImage {
     margin-bottom: 30px;
   }
@@ -81,7 +81,7 @@
   background-size: cover;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .p-category__title {
     height: 140px;
   }
@@ -199,7 +199,7 @@ textarea.is-form__error {
   margin-top: 80px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .p-contact__text {
     margin-bottom: 30px;
   }
@@ -533,7 +533,7 @@ textarea.is-form__error {
   cursor: default;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .p-item__wrap {
     display: block;
     margin-bottom: 50px;
@@ -748,7 +748,7 @@ textarea.is-form__error {
   font-size: 1.2rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .p-notfound {
     padding-top: 100px;
     padding-bottom: 100px;
