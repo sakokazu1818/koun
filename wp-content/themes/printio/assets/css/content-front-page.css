@@ -544,6 +544,7 @@ h2 {
   padding-top: 80px;
 }
 .philosophy h1 {
+  font-weight: bold;
   font-size: 4rem;
 }
 .philosophy .content .text {
@@ -567,6 +568,7 @@ h2 {
 }
 .philosophy .bg-img-1 .title {
   position: relative;
+  width: 80%;
   z-index: 5;
   color: #fff;
   left: 30px;
@@ -842,15 +844,228 @@ h2 {
   }
 }
 .about-moving h1 {
-  font-size: 1.8rem;
+  font-weight: bold;
+  font-size: 4rem;
 }
 .about-moving .content .text {
   display: inline-block;
+}
+.about-moving h2 {
+  font-size: 3rem;
+}
+.about-moving .bg-img {
+  position: relative;
+  height: calc(100vh - 80px);
+  background: url(../images/about-moving-mv.png) no-repeat;
+  background-size: cover;
+}
+.about-moving .bg-img .title {
+  width: 80%;
+  font-size: 3rem;
+  position: relative;
+  z-index: 5;
+  color: #fff;
+  left: 30px;
+  top: calc(40vh - 80px);
+}
+.about-moving .bg-img .description {
+  position: absolute;
+  bottom: 0px;
+  padding-left: 30px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  width: 100%;
+  color: #fff;
+  z-index: 5;
+  background-color: rgba(0, 0, 0, .5);
+}
+.about-moving .bg-img::after {
+  content: '';
+  background-color: rgba(0, 0, 0, .3);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.about-moving .area-1 {
+  padding-top: 60px;
+  background-color: #fff;
+}
+.about-moving .area-1 h2::before {
+  content: "";
+  display: block;
+  width: 16rem;
+  height: 0.8rem;
+  background-color: #c49525;
+  position: absolute;
+  bottom: -16px;
+}
+.about-moving .area-1 .text {
+  margin-top: 60px;
+  padding-bottom: 80px;
+}
+.about-moving .item {
+  position: relative;
+  z-index: 5;
+  width: 100%;
+  background: linear-gradient(180deg, #fff 0%, #fff 30%, #000 30%, #000 100%);
+}
+.about-moving .item img {
+  padding-bottom: 56px;
+}
+.about-moving .area-2 {
+  padding-top: 56px;
+  background-color: #fff;
+}
+.about-moving .area-2 .text {
+  position: relative;
+  z-index: 2;
+  margin-top: 20px;
+  padding-bottom: 40px;
+}
+.about-moving .area-2 .wrap-about {
+  position: absolute;
+  right: 0px;
+}
+.about-moving .area-2 .wrap-about .item-2 {
+  position: relative;
+  height: 38rem;
+  width: auto;
+  right: 3rem;
+  z-index: 1;
+  top: -12rem;
+}
+.about-moving .area-3 {
+  background-color: #000;
+  color: #fff;
+  padding-top: 28px;
+  padding-bottom: 28px;
+}
+.about-moving .area-3 .row {
+  position: relative;
+}
+.about-moving .area-3 .description {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.about-moving .area-3 .description .center {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.about-moving .area-3 .description .text {
+  display: flex;
+  position: relative;
+}
+.about-moving .area-3 .description .text .ten, .about-moving .area-3 .description .text .ten-center {
+  min-width: 28px;
+}
+.about-moving .area-3 .description .text .ten::before {
+  content: "";
+  display: block;
+  width: 18px;
+  height: 4px;
+  background-color: #c49525;
+  position: absolute;
+  top: 6px;
+}
+.about-moving .area-3 .description .text .ten-center::before {
+  content: "";
+  display: block;
+  width: 18px;
+  height: 4px;
+  background-color: #c49525;
+  position: absolute;
+  top: 12px;
+}
+.about-moving .area-3 .contact {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.about-moving .area-3 .contact .tel {
+  position: relative;
+  font-size: 2rem;
+  margin-bottom: 32px;
+  height: 26px;
+}
+.about-moving .area-3 .contact .tel .icon {
+  display: inline-block;
+  height: 16px;
+  padding-left: 12px;
+  margin-top: 10px;
+}
+.about-moving .area-3 .contact .inquiry {
+  position: relative;
+  font-size: 2rem;
+  margin-bottom: 32px;
+  height: 26px;
+}
+.about-moving .area-3 .contact .inquiry .icon {
+  display: inline-block;
+  height: 2.6rem;
+  padding-left: 12px;
+  padding-top: 10px;
+}
+.about-moving .area-3 .contact .tel::before {
+  content: "";
+  display: block;
+  width: 34rem;
+  height: 1px;
+  background-color: #c49525;
+  position: absolute;
+  bottom: -10px;
+}
+.about-moving .area-3 .contact .tel::after {
+  content: "";
+  display: inline-block;
+  width: 1px;
+  height: calc(100% + 10px);
+  background-color: #c49525;
+  position: absolute;
+  left: 0;
+}
+.about-moving .area-3 .contact .inquiry::before {
+  content: "";
+  display: block;
+  width: 34rem;
+  height: 1px;
+  background-color: #c49525;
+  position: absolute;
+  bottom: -10px;
+}
+.about-moving .area-3 .contact .inquiry::after {
+  content: "";
+  display: inline-block;
+  width: 1px;
+  height: calc(100% + 10px);
+  background-color: #c49525;
+  position: absolute;
+  left: 0;
+}
+.about-moving .area-3 .contact img {
+  margin-bottom: 32px;
+  height: 26px;
+}
+.about-moving .area-3 .item-3-wrap {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  width: 46%;
+}
+.about-moving .area-3 .item-3-wrap img {
+  height: 360px;
+  object-fit: cover;
 }
 @media screen and (max-width: 767px) {
   .about-moving {
     padding-top: 30px;
     padding-bottom: 0px;
+  }
+  .about-moving h1 {
+    font-size: 1.8rem;
   }
   .about-moving h2 {
     font-size: 14px;
@@ -880,15 +1095,6 @@ h2 {
     z-index: 5;
     background-color: rgba(0, 0, 0, .5);
   }
-  .about-moving .bg-img::after {
-    content: '';
-    background-color: rgba(0, 0, 0, .3);
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-  }
   .about-moving .area-1 {
     padding-top: 28px;
     background-color: #fff;
@@ -906,12 +1112,6 @@ h2 {
     margin-top: 20px;
     padding-bottom: 40px;
   }
-  .about-moving .item {
-    position: relative;
-    z-index: 5;
-    width: 100%;
-    background: linear-gradient(180deg, #fff 0%, #fff 30%, #000 30%, #000 100%);
-  }
   .about-moving .item img {
     padding-bottom: 28px;
   }
@@ -925,12 +1125,12 @@ h2 {
     margin-top: 20px;
     padding-bottom: 40px;
   }
-  .about-moving .area-2 .hoge {
+  .about-moving .area-2 .wrap-about {
     position: absolute;
     height: 280px;
     right: 0px;
   }
-  .about-moving .area-2 .hoge .item-2 {
+  .about-moving .area-2 .wrap-about .item-2 {
     position: relative;
     height: 260px;
     width: auto;
@@ -994,6 +1194,7 @@ h2 {
     display: inline-block;
     height: 16px;
     padding-left: 12px;
+    margin-top: 0px;
   }
   .about-moving .area-3 .contact .inquiry {
     position: relative;
@@ -1005,6 +1206,7 @@ h2 {
     display: inline-block;
     height: 16px;
     padding-left: 12px;
+    padding-top: 0px;
   }
   .about-moving .area-3 .contact .tel::before {
     content: "";

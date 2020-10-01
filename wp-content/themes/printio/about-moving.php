@@ -24,16 +24,24 @@ get_header(); ?>
         <h1>引っ越しについて</h1>
         About Moving
       </div>
-      <div class="description">
+      <div class="description is-sp">
         お客様の引越しに関わる全てを
         <p>トータルサポート</p>
+      </div>
+
+      <div class="description is-pc">
+        お客様の引越しに関わる全てをトータルサポート
       </div>
     </div>
     <div class="container-fluid area-1">
       <div class="row">
         <div class="col-1"></div>
-        <div class="col-10">
+        <div class="col-10 is-sp">
           <h2>引越す物件が決まる前から引越し後まで<p>全てを弊社一社でサポート</h2>
+        </div>
+
+        <div class="col-10 is-pc">
+          <h2>引越す物件が決まる前から引越し後まで全てを弊社一社でサポート</h2>
         </div>
       </div>
       <div class="row text">
@@ -69,7 +77,7 @@ get_header(); ?>
             <p>などご希望がある方には特別なキャンペーンをご用意させて頂き、一人ひとりに沿ったサービス展開を心がけております。</p>
           </div>
         </div>
-        <div class="hoge">
+        <div class="wrap-about">
           <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-2.png" class="item-2" alt="引っ越しについて">
         </div>
       </div>
@@ -77,7 +85,9 @@ get_header(); ?>
     <div class="container-fluid area-3">
       <div class="row">
         <div class="col-6 pr-0">
-          <h2>その他困ったことは<p>何でもご相談ください！</h2>
+          <h2 class="is-sp">その他困ったことは<p>何でもご相談ください！</h2>
+          <h2 class="is-pc">その他困ったことは<p>何でもご相談ください！</h2>
+
           <div class="description">
             <div class="text">
               <div class="ten"></div>
@@ -94,7 +104,18 @@ get_header(); ?>
               <div>ペットがいるけど大丈夫だろうか。。。。</div>
             </div>
           </div>
-          <div class="contact">
+          <div class="contact is-sp">
+            <div class="tel">
+              <img src="/wp-content/themes/printio/assets/images/Icon-zocial-call.png" class="icon" alt="お問い合わせTEL">
+              03-1234-5678
+            </div>
+            <div class="inquiry">
+              <img src="/wp-content/themes/printio/assets/images/icon-inquiry.png" class="icon" alt="お問い合わせTEL">
+              引越しについてのお問い合わせ
+            </div>
+          </div>
+
+          <div class="contact is-pc">
             <div class="tel">
               <img src="/wp-content/themes/printio/assets/images/Icon-zocial-call.png" class="icon" alt="お問い合わせTEL">
               03-1234-5678
