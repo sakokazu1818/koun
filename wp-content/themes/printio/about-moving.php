@@ -128,7 +128,7 @@ get_header(); ?>
           <div>どんな些細な内容でも一度弊社にご相談ください！ 充実のサポート体制でお客様の悩みにお答えします。</div>
         </div>
 
-        <div class="item-3-wrap">
+        <div class="item-3-wrap text-center">
           <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-3.png" class="item-3" alt="引っ越しについて">
         </div>
       </div>
