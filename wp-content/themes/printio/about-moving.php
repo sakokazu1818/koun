@@ -136,10 +136,10 @@ get_header(); ?>
     <div class="container-fluid area-4">
       <div class="row">
         <div class="col-6 pr">
-          <div class="image-wraper">
+          <a class="image-wraper" href="/moving-contact">
             <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-6.png" class="img-fluid" alt="引っ越しについて">
             <div class="inquiry-moving">引っ越しのお問い合わせ</div>
-          </div>
+          </a>
           <h2>一人暮らし・単身引越しの方</h2>
           <div>(1t軽)</div>
           <div class="line"></div>
