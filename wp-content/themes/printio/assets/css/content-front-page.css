@@ -1442,7 +1442,8 @@ h2 {
   padding-bottom: 0px;
 }
 .recruit h1 {
-  font-size: 1.8rem;
+  font-weight: bold;
+  font-size: 4rem;
 }
 .recruit .content {
   margin-bottom: 68px;
@@ -1450,20 +1451,25 @@ h2 {
 .recruit .content .content-title {
   width: 90%;
   margin-bottom: 23px;
+  font-weight: bold;
+  font-size: 2.8rem;
 }
 .recruit .content .content-title::after {
   content: "";
   display: block;
-  width: 32px;
-  height: 3px;
+  width: 100px;
+  height: 8px;
   background-color: #c49525;
   position: absolute;
-  margin-top: 10px;
+  margin-top: 20px;
+}
+.recruit .content .content-text {
+  margin-top: 48px;
 }
 .recruit .content .img-area {
   position: relative;
   background-color: #000;
-  height: 100%;
+  height: 36vw;
   width: auto;
   margin-left: 20px;
 }
@@ -1475,7 +1481,7 @@ h2 {
 }
 .recruit .content .img-area-2 {
   background-color: #000;
-  height: 100%;
+  height: 36vw;
   width: auto;
   margin-right: 20px;
 }
@@ -1489,7 +1495,34 @@ h2 {
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
+.recruit .bg-img {
+  position: relative;
+  height: calc(100vh - 80px);
+  background: url(../images/bg-5.svg) no-repeat;
+  background-size: cover;
+}
+.recruit .bg-img .title {
+  width: 80%;
+  font-size: 3rem;
+  position: relative;
+  z-index: 5;
+  color: #fff;
+  left: 30px;
+  top: calc(40vh - 80px);
+}
+.recruit .bg-img::after {
+  content: '';
+  background-color: rgba(0, 0, 0, .3);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
 @media screen and (max-width: 767px) {
+  .recruit h1 {
+    font-size: 1.8rem;
+  }
   .recruit .bg-img {
     position: relative;
     height: 200px;
@@ -1503,6 +1536,23 @@ h2 {
     color: #fff;
     left: 30px;
     top: 80px;
+  }
+  .recruit .img-area {
+    height: 40vw !important;
+  }
+  .recruit .img-area-2 {
+    height: 40vw !important;
+  }
+  .recruit .content-title {
+    font-size: 100% !important;
+  }
+  .recruit .content-text {
+    margin-top: 0px !important;
+  }
+  .recruit .content-title::after {
+    width: 32px !important;
+    height: 3px !important;
+    margin-top: 10px !important;
   }
 }
 .l-footer a {
