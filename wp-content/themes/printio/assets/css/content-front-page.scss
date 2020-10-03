@@ -1739,7 +1739,8 @@ h2 {
 
 .company {
   h1 {
-    font-size: 1.8rem;
+    font-weight: bold;
+    font-size: 4rem;
   }
 
   .content {
@@ -1759,8 +1760,57 @@ h2 {
     }
   }
 
+  padding-top: 80px;
+
+  .bg-img {
+    position: relative;
+    height: calc(100vh - 80px);
+    background: url(../images/bg-3.svg) no-repeat;
+    background-size: cover;
+
+    .title {
+      width: 80%;
+      font-size: 3rem;
+      position: relative;
+      z-index: 5;
+      color: #FFF;
+      left: 30px;
+      top: calc(40vh - 80px);
+    }
+  }
+
+  .bg-img::after {
+    content: '';
+    background-color: rgba(0,0,0,.3);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+
+  .table {
+    margin-top: 32px;
+    margin-bottom: 32px;
+
+    th {
+      vertical-align: middle;
+    }
+  }
+
+  .bg-img2 {
+    position: relative;
+    height: 400px;
+    background: url(../images/bg-4.svg) no-repeat;
+    background-size: cover;
+  }
+
   @media screen and (max-width: 767px) {
     padding-top: 30px;
+
+    h1 {
+      font-size: 1.8rem;
+    }
 
     .bg-img {
       position: relative;
