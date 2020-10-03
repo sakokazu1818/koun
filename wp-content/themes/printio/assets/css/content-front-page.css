@@ -316,7 +316,7 @@ h2 {
 .top .is-pc .wrap-link .inquiry-btn {
   position: relative;
   top: -100px;
-  left: -60px;
+  left: -3em;
 }
 .top .is-pc .wrap-link .more-btn {
   position: absolute;
