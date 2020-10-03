@@ -953,11 +953,11 @@ h2 {
     }
 
     .wpcf7-submit {
-      width: 120px;
-      height: 26px;
+      width: 152px;
+      height: 48px;
       background: #C49525;
       color: #fff;
-      font-size: 10px;
+      font-size: 2rem;
     }
 
     .submit-btn::before {
@@ -969,7 +969,7 @@ h2 {
       font-size: 1rem;
       color: #fff;
       position: absolute;
-      top: 72%;
+      top: 68%;
       right: 27px;
       -webkit-transform: translateY(-50%);
       transform: translateY(-50%);
@@ -1070,6 +1070,16 @@ h2 {
             width: 200px;
           }
         }
+      }
+
+      .wpcf7-submit {
+        width: 120px;
+        height: 26px;
+        font-size: 10px;
+      }
+
+      .submit-btn::before {
+        top: 72%;
       }
     }
   }

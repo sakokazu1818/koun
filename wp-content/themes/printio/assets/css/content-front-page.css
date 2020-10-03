@@ -817,11 +817,11 @@ h2 {
   display: none;
 }
 .contact .form .wpcf7-submit {
-  width: 120px;
-  height: 26px;
+  width: 152px;
+  height: 48px;
   background: #c49525;
   color: #fff;
-  font-size: 10px;
+  font-size: 2rem;
 }
 .contact .form .submit-btn::before {
   content: '>';
@@ -832,7 +832,7 @@ h2 {
   font-size: 1rem;
   color: #fff;
   position: absolute;
-  top: 72%;
+  top: 68%;
   right: 27px;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -911,6 +911,14 @@ h2 {
   .contact .form .wpcf7-form .your-name input, .contact .form .wpcf7-form .your-email input, .contact .form .wpcf7-form .tel-861 input, .contact .form .wpcf7-form .your-message input, .contact .form .wpcf7-form .your-furigana input, .contact .form .wpcf7-form .text-zip input, .contact .form .wpcf7-form .text-addr input, .contact .form .wpcf7-form .type input, .contact .form .wpcf7-form .your-name textarea, .contact .form .wpcf7-form .your-email textarea, .contact .form .wpcf7-form .tel-861 textarea, .contact .form .wpcf7-form .your-message textarea, .contact .form .wpcf7-form .your-furigana textarea, .contact .form .wpcf7-form .text-zip textarea, .contact .form .wpcf7-form .text-addr textarea, .contact .form .wpcf7-form .type textarea, .contact .form .wpcf7-form .your-name select, .contact .form .wpcf7-form .your-email select, .contact .form .wpcf7-form .tel-861 select, .contact .form .wpcf7-form .your-message select, .contact .form .wpcf7-form .your-furigana select, .contact .form .wpcf7-form .text-zip select, .contact .form .wpcf7-form .text-addr select, .contact .form .wpcf7-form .type select {
     float: right;
     width: 200px;
+  }
+  .contact .form .wpcf7-submit {
+    width: 120px;
+    height: 26px;
+    font-size: 10px;
+  }
+  .contact .form .submit-btn::before {
+    top: 72%;
   }
 }
 .about-moving {
