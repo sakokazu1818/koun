@@ -43,7 +43,7 @@ get_header('top'); ?>
       <h2>お問い合わせ</h2>
 
       <div class="line"></div>
-      <div class="container">
+      <div class="container is-sp">
         <div class="row">
           <div class="col-12">
             <div class="annotation">※すべて必須項目となります。</div>
@@ -52,6 +52,7 @@ get_header('top'); ?>
       </div>
 
       <div class="form">
+        <div class="is-pc annotation-pc">※すべて必須項目となります。</div>
         <?php the_content(); ?>
         <div class="container">
           <div class="row mt-3 mb-3">
