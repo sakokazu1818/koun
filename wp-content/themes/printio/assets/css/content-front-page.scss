@@ -1281,6 +1281,8 @@ h2 {
         font-size: 2rem;
         margin-bottom: 32px;
         height: 26px;
+        display: inline-block;
+        color: #FFF;
 
         .icon {
           display: inline-block;
@@ -1354,7 +1356,7 @@ h2 {
 
   .area-4 {
     background-color: #FFF;
-    margin-top: 32px;
+    padding-top: 32px;
     .pr {
       padding-right: 7.5px;
     }

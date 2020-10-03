@@ -1090,6 +1090,8 @@ h2 {
   font-size: 2rem;
   margin-bottom: 32px;
   height: 26px;
+  display: inline-block;
+  color: #fff;
 }
 .about-moving .area-3 .contact .inquiry .icon {
   display: inline-block;
@@ -1152,7 +1154,7 @@ h2 {
 }
 .about-moving .area-4 {
   background-color: #fff;
-  margin-top: 32px;
+  padding-top: 32px;
 }
 .about-moving .area-4 .pr {
   padding-right: 7.5px;
