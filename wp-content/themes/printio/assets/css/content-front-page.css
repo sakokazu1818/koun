@@ -305,8 +305,13 @@ h2 {
   height: 310px;
 }
 .top .is-pc .wrap-link {
-  position: absolute;
+  position: relative;
   padding-right: 26px;
+  height: 280px;
+}
+.top .is-pc .wrap-link .recurit-img {
+  height: 280px;
+  object-fit: cover;
 }
 .top .is-pc .wrap-link .inquiry-btn {
   position: relative;
@@ -314,7 +319,8 @@ h2 {
   left: -60px;
 }
 .top .is-pc .wrap-link .more-btn {
-  margin-top: 32px;
+  position: absolute;
+  bottom: 0;
 }
 .top .is-pc .recurit-img-2 {
   height: 310px !important;

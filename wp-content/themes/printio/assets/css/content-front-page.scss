@@ -358,8 +358,14 @@ h2 {
     height: 310px;
 
     .wrap-link {
-      position: absolute;
+      position: relative;
       padding-right: 26px;
+      height: 280px;
+
+      .recurit-img {
+        height: 280px;
+        object-fit: cover;
+      }
 
       .inquiry-btn {
         position: relative;
@@ -368,7 +374,8 @@ h2 {
       }
 
       .more-btn {
-        margin-top: 32px;
+        position: absolute;
+      	bottom: 0;
       }
     }
 
