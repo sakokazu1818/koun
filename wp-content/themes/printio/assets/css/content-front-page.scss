@@ -871,6 +871,7 @@ h2 {
 
   .annotation-pc {
     padding-top: 16px;
+    padding-bottom: 16px;
     color: red;
     padding-left: 5vw;
   }
@@ -885,8 +886,8 @@ h2 {
     padding-bottom: 32px;
 
     p:nth-child(2n) {
-       /* 表の偶数行のみを対象に装飾するCSS */
-       background-color: white;
+      /* 表の偶数行のみを対象に装飾するCSS */
+      background-color: white;
     }
 
     label {
@@ -910,7 +911,7 @@ h2 {
 
     .wpcf7-form {
       label:not(.message) {
-        height: 40px;
+        height: 62px;
         top: 12px;
       }
 
@@ -976,7 +977,7 @@ h2 {
     }
 
     .wpcf7-not-valid-tip {
-      font-size: 8px;
+      font-size: 16px;
     }
   }
 
@@ -1069,6 +1070,10 @@ h2 {
             float: right;
             width: 200px;
           }
+        }
+
+        .wpcf7-not-valid-tip {
+          font-size: 8px;
         }
       }
 

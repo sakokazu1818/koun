@@ -29,7 +29,8 @@ get_header('top'); ?>
       <div class="container">
         <div class="row">
           <div class="col-6 pr-0">
-            <h3>お問い合わせ<br>【お困りごと・苦情窓口】</h3>
+            <h3 class="is-sp">お問い合わせ<br>【お困りごと・苦情窓口】</h3>
+            <h3 class="is-pc">お問い合わせ【お困りごと・苦情窓口】</h3>
             <div class="line-2"></div>
             <div class="text">お問い合せは専用窓口へ電話もしくは下記入力フォームにご記入の上、送信してください。</div>
             <div class="annotation-2">※お引越日や契約内容変更や資材等の手配・回収に関するご要望はお引越担当支社へお問い合せ下さい。</div>
@@ -61,12 +62,13 @@ get_header('top'); ?>
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <div class="annotation">※すべて必須項目となります。</div>
+            <div class="annotation is-sp">※すべて必須項目となります。</div>
           </div>
         </div>
       </div>
 
       <div class="form">
+        <div class="is-pc annotation-pc">※すべて必須項目となります。</div>
         <?php the_content(); ?>
         <div class="container">
           <div class="row mt-3 mb-3">
