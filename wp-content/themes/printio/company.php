@@ -29,20 +29,28 @@ get_header(); ?>
     <table class="table table-striped table-bordered">
       <tbody class="is-sp">
         <tr>
-          <th width="160" scope="row">会社名</th>
-          <td>株式会社SELF－PRODUCE</td>
+          <th width="160" scope="row">本社</th>
+          <td>株式会社SELF-PRODUCE</td>
         </tr>
         <tr>
-          <th scope="row">会社名≪ﾌﾘｶﾞﾅ≫</th>
+          <th scope="row">本社≪ﾌﾘｶﾞﾅ≫</th>
           <td>ｶﾌﾞｼｷｶｲｼｬｾﾙﾌﾌﾟﾛﾃﾞｭｰｽ</td>
+        </tr>
+        <tr>
+          <th scope="row">本社所在地</th>
+          <td>〒110-0015<p>東京都台東区東上野6-2-1<p>MPR東上野ビル6階</td>
+        </tr>
+        <tr>
+          <th scope="row">称号</th>
+          <td>幸運引越センター</td>
+        </tr>
+        <tr>
+          <th scope="row">引越センター住所</th>
+          <td>東京都豊島区高松3-12-15</td>
         </tr>
         <tr>
           <th scope="row">会社ホームページＵＲＬ</th>
           <td><a href="https://www.selfproduce.jp/">https://www.selfproduce.jp/</a></td>
-        </tr>
-        <tr>
-          <th scope="row">会社所在地</th>
-          <td>〒110-0015<p>東京都台東区東上野6-2-1<p>MPR東上野ビル6階</td>
         </tr>
         <tr>
           <th scope="row">会社連絡先</th>
@@ -76,20 +84,28 @@ get_header(); ?>
 
       <tbody class="is-pc">
         <tr>
-          <th width="40%" scope="row">会社名</th>
-          <td>株式会社SELF－PRODUCE</td>
+          <th width="40%" scope="row">本社</th>
+          <td>株式会社SELF-PRODUCE</td>
         </tr>
         <tr>
-          <th scope="row">会社名≪ﾌﾘｶﾞﾅ≫</th>
+          <th scope="row">本社≪ﾌﾘｶﾞﾅ≫</th>
           <td>ｶﾌﾞｼｷｶｲｼｬｾﾙﾌﾌﾟﾛﾃﾞｭｰｽ</td>
+        </tr>
+        <tr>
+          <th scope="row">本社所在地</th>
+          <td>〒110-0015<p>東京都台東区東上野6-2-1 MPR東上野ビル6階</td>
+        </tr>
+        <tr>
+          <th scope="row">称号</th>
+          <td>幸運引越センター</td>
+        </tr>
+        <tr>
+          <th scope="row">引越センター住所</th>
+          <td>東京都豊島区高松3-12-15</td>
         </tr>
         <tr>
           <th scope="row">会社ホームページＵＲＬ</th>
           <td><a href="https://www.selfproduce.jp/">https://www.selfproduce.jp/</a></td>
-        </tr>
-        <tr>
-          <th scope="row">会社所在地</th>
-          <td>〒110-0015<p>東京都台東区東上野6-2-1<p>MPR東上野ビル6階</td>
         </tr>
         <tr>
           <th scope="row">会社連絡先</th>
