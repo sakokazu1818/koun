@@ -23,9 +23,9 @@
     <div class="container c-container">
       <div class="row">
         <div class="col-4 text-center pl-0 pr-0">
-          <a href="tel:000-1234-5678">
+          <a href="tel:0120-559-878">
            <img class="icon" src="/wp-content/themes/printio/assets/images/icon-tell.svg" alt="line">
-           <div class="company-info-text">TEL: 03-1234-5678</div>
+           <div class="company-info-text">TEL: 0120-559-878</div>
           </a>
         </div>
 

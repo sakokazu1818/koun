@@ -43,7 +43,7 @@
       <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/logo.png" alt="幸運引越社センターロゴ"></a>
     </div>
     <div class="tell">
-      <a href="/">
+      <a href="tel:0120-559-878">
         <img src="/wp-content/themes/printio/assets/images/tell.svg" alt="tell">
       </a>
     </div>
