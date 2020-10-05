@@ -54,7 +54,7 @@ get_header(); ?>
         </tr>
         <tr>
           <th scope="row">会社連絡先</th>
-          <td>0120-559-093</td>
+          <td><a href="tel:0120-559-093">0120-559-093</a></td>
         </tr>
         <tr>
           <th scope="row">設立年月日</th>
@@ -109,7 +109,7 @@ get_header(); ?>
         </tr>
         <tr>
           <th scope="row">会社連絡先</th>
-          <td>0120-559-093</td>
+          <td><a href="tel:0120-559-093">0120-559-093</a></td>
         </tr>
         <tr>
           <th scope="row">設立年月日</th>

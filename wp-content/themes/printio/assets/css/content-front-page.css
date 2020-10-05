@@ -1674,6 +1674,7 @@ h2 {
   .recruit .bg-img .title {
     width: 220px;
     position: relative;
+    font-size: 100% !important;
     z-index: 5;
     color: #fff;
     left: 30px;
