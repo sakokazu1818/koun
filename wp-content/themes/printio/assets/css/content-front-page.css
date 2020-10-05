@@ -629,7 +629,7 @@ h2 {
     background-size: cover;
   }
   .philosophy .bg-img-1 .title {
-    width: 120px;
+    width: 80%;
     font-size: 100%;
     position: relative;
     z-index: 5;
@@ -1075,6 +1075,8 @@ h2 {
 }
 .about-moving .area-3 .contact .tel {
   position: relative;
+  display: block;
+  color: #fff;
   font-size: 2rem;
   margin-bottom: 32px;
   height: 26px;
@@ -1090,7 +1092,7 @@ h2 {
   font-size: 2rem;
   margin-bottom: 32px;
   height: 26px;
-  display: inline-block;
+  display: block;
   color: #fff;
 }
 .about-moving .area-3 .contact .inquiry .icon {
@@ -1223,7 +1225,7 @@ h2 {
     font-size: 1.8rem;
   }
   .about-moving h2 {
-    font-size: 14px;
+    font-size: 14px !important;
   }
   .about-moving .bg-img {
     position: relative;
@@ -1233,6 +1235,7 @@ h2 {
   }
   .about-moving .bg-img .title {
     width: 220px;
+    font-size: 100%;
     position: relative;
     z-index: 5;
     color: #fff;
@@ -1341,9 +1344,12 @@ h2 {
   }
   .about-moving .area-3 .contact .tel {
     position: relative;
+    color: #fff;
+    display: block;
     font-size: 12px;
     margin-bottom: 32px;
     height: 26px;
+    width: 180px;
   }
   .about-moving .area-3 .contact .tel .icon {
     display: inline-block;
@@ -1352,10 +1358,12 @@ h2 {
     margin-top: 0px;
   }
   .about-moving .area-3 .contact .inquiry {
+    display: block;
     position: relative;
     font-size: 8px;
     margin-bottom: 32px;
     height: 26px;
+    width: 180px;
   }
   .about-moving .area-3 .contact .inquiry .icon {
     display: inline-block;

@@ -105,10 +105,10 @@ get_header(); ?>
             </div>
           </div>
           <div class="contact is-sp">
-            <div class="tel">
+            <a href="tel:0120-559-878" class="tel">
               <img src="/wp-content/themes/printio/assets/images/Icon-zocial-call.png" class="icon" alt="お問い合わせTEL">
-              03-1234-5678
-            </div>
+              0120-559-878
+            </a>
             <a class="inquiry" href="/moving-contact">
               <img src="/wp-content/themes/printio/assets/images/icon-inquiry.png" class="icon" alt="お問い合わせTEL">
               引越しについてのお問い合わせ
@@ -116,10 +116,10 @@ get_header(); ?>
           </div>
 
           <div class="contact is-pc">
-            <div class="tel">
+            <a href="tel:0120-559-878" class="tel">
               <img src="/wp-content/themes/printio/assets/images/Icon-zocial-call.png" class="icon" alt="お問い合わせTEL">
-              03-1234-5678
-            </div>
+              0120-559-878
+            </a>
             <a class="inquiry" href="/moving-contact">
               <img src="/wp-content/themes/printio/assets/images/icon-inquiry.png" class="icon" alt="お問い合わせTEL">
               引越しについてのお問い合わせ

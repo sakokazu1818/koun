@@ -729,7 +729,7 @@ h2 {
       background-size: cover;
 
       .title {
-        width: 120px;
+        width: 80%;
         font-size: 100%;
         position: relative;
         z-index: 5;
@@ -1264,6 +1264,8 @@ h2 {
 
       .tel {
         position: relative;
+        display: block;
+        color: #FFF;
         font-size: 2rem;
         margin-bottom: 32px;
         height: 26px;
@@ -1281,7 +1283,7 @@ h2 {
         font-size: 2rem;
         margin-bottom: 32px;
         height: 26px;
-        display: inline-block;
+        display: block;
         color: #FFF;
 
         .icon {
@@ -1436,7 +1438,7 @@ h2 {
     }
 
     h2 {
-      font-size: 14px;
+      font-size: 14px !important;
     }
 
     .bg-img {
@@ -1447,6 +1449,7 @@ h2 {
 
       .title {
         width: 220px;
+        font-size: 100%;
         position: relative;
         z-index: 5;
         color: #FFF;
@@ -1574,9 +1577,12 @@ h2 {
 
         .tel {
           position: relative;
+          color: #FFF;
+          display: block;
           font-size: 12px;
           margin-bottom: 32px;
           height: 26px;
+          width: 180px;
 
           .icon {
             display: inline-block;
@@ -1587,10 +1593,12 @@ h2 {
         }
 
         .inquiry {
+          display: block;
           position: relative;
           font-size: 8px;
           margin-bottom: 32px;
           height: 26px;
+          width: 180px;
 
           .icon {
             display: inline-block;
