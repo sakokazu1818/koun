@@ -420,7 +420,7 @@ h2 {
 }
 @media screen and (max-width: 767px) {
   .top .about-moving h2 {
-    font-size: 1.8rem;
+    font-size: 1.8rem !important;
   }
   .top .about-moving h2::before {
     content: "";
@@ -1546,7 +1546,7 @@ h2 {
 }
 @media screen and (max-width: 767px) {
   .company {
-    padding-top: 30px;
+    padding-top: 50px;
   }
   .company h1 {
     font-size: 1.8rem;
