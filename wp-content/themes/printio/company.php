@@ -69,10 +69,6 @@ get_header(); ?>
           <td>50名</td>
         </tr>
         <tr>
-          <th scope="row">従業員数</th>
-          <td>50名</td>
-        </tr>
-        <tr>
           <th scope="row">年商</th>
           <td>300,000,000</td>
         </tr>
@@ -118,10 +114,6 @@ get_header(); ?>
         <tr>
           <th scope="row">資本金</th>
           <td>1,000,000</td>
-        </tr>
-        <tr>
-          <th scope="row">従業員数</th>
-          <td>50名</td>
         </tr>
         <tr>
           <th scope="row">従業員数</th>
