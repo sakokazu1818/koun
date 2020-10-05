@@ -23,7 +23,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FirstSlide.png" alt="First slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FirstSlide.jpeg" alt="First slide">
         </div>
         <div class="carousel-item">
           <img class="main-visual-img" src="wp-content/themes/printio/assets/images/SecondSlide.png" alt="Second slide">
@@ -49,7 +49,7 @@
     <div class="l-container01 company-philosophy">
       <div class="row content">
         <div class="col-6 text-center d-flex align-items-end">
-          <img class="recurit-img" src="/wp-content/themes/printio/assets/images/company-philosophy.svg" alt="リクルート"></img>
+          <img class="recurit-img" src="/wp-content/themes/printio/assets/images/company-philosophy.jpg" alt="リクルート"></img>
         </div>
         <div class="col-6 pl-0">
           <h2>企業理念</h2>
@@ -121,7 +121,7 @@
           </div>
 
           <div class="col-6 text-center pl-0 d-flex align-items-end">
-            <img class="recurit-img" src="/wp-content/themes/printio/assets/images/recurit.svg" alt="リクルート"></img>
+            <img class="recurit-img" src="/wp-content/themes/printio/assets/images/recurit.jpg" alt="リクルート"></img>
           </div>
         </div>
       </div>
@@ -131,7 +131,7 @@
       <div class="container c-container">
         <div class="row">
           <div class="col-6 text-left">
-            <img class="recurit-img-2" src="/wp-content/themes/printio/assets/images/recurit.svg" alt="リクルート"></img>
+            <img class="recurit-img-2" src="/wp-content/themes/printio/assets/images/recurit.jpg" alt="リクルート"></img>
           </div>
 
           <div class="col-6 recruit-item">

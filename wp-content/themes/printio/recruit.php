@@ -41,7 +41,7 @@ get_header(); ?>
       </div>
       <div class="col-6 pr-0">
         <div class="img-area">
-          <img src="/wp-content/themes/printio/assets/images/recruit-1.png" alt="recruit">
+          <img src="/wp-content/themes/printio/assets/images/recruit-1.jpeg" alt="recruit">
         </div>
       </div>
     </div>
@@ -50,7 +50,7 @@ get_header(); ?>
     <div class="row content mt-5">
       <div class="col-6 pl-0">
         <div class="img-area-2">
-          <img src="/wp-content/themes/printio/assets/images/recruit-2.png" alt="recruit">
+          <img src="/wp-content/themes/printio/assets/images/recruit-2.jpeg" alt="recruit">
         </div>
       </div>
       <div class="col-6 d-flex align-items-center pl-0">
@@ -83,7 +83,7 @@ get_header(); ?>
       </div>
       <div class="col-6 pr-0">
         <div class="img-area">
-          <img src="/wp-content/themes/printio/assets/images/recruit-3.png" alt="recruit">
+          <img src="/wp-content/themes/printio/assets/images/recruit-3.jpeg" alt="recruit">
         </div>
       </div>
     </div>
@@ -92,7 +92,7 @@ get_header(); ?>
     <div class="row content mt-5">
       <div class="col-6 pl-0">
         <div class="img-area-2">
-          <img src="/wp-content/themes/printio/assets/images/recruit-4.png" alt="recruit">
+          <img src="/wp-content/themes/printio/assets/images/recruit-4.jpeg" alt="recruit">
         </div>
       </div>
       <div class="col-6 d-flex align-items-center pl-0">

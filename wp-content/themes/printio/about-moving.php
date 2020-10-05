@@ -78,7 +78,7 @@ get_header(); ?>
           </div>
         </div>
         <div class="wrap-about">
-          <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-2.png" class="item-2" alt="引っ越しについて">
+          <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-2.jpeg" class="item-2" alt="引っ越しについて">
         </div>
       </div>
     </div>
@@ -129,7 +129,7 @@ get_header(); ?>
         </div>
 
         <div class="item-3-wrap text-center">
-          <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-3.png" class="item-3" alt="引っ越しについて">
+          <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-3.jpeg" class="item-3" alt="引っ越しについて">
         </div>
       </div>
     </div>
