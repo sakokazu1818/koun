@@ -49,11 +49,11 @@ get_header(); ?>
           <td>東京都豊島区高松3-12-15</td>
         </tr>
         <tr>
-          <th scope="row">会社ホームページＵＲＬ</th>
+          <th scope="row">本社ホームページ</th>
           <td><a href="https://www.selfproduce.jp/">https://www.selfproduce.jp/</a></td>
         </tr>
         <tr>
-          <th scope="row">会社連絡先</th>
+          <th scope="row">本社連絡先</th>
           <td><a href="tel:0120-559-093">0120-559-093</a></td>
         </tr>
         <tr>
@@ -100,11 +100,11 @@ get_header(); ?>
           <td>東京都豊島区高松3-12-15</td>
         </tr>
         <tr>
-          <th scope="row">会社ホームページＵＲＬ</th>
+          <th scope="row">本社ホームページ</th>
           <td><a href="https://www.selfproduce.jp/">https://www.selfproduce.jp/</a></td>
         </tr>
         <tr>
-          <th scope="row">会社連絡先</th>
+          <th scope="row">本社連絡先</th>
           <td><a href="tel:0120-559-093">0120-559-093</a></td>
         </tr>
         <tr>
