@@ -18,8 +18,8 @@
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=0">
-<!-- <title>Printio - 全国の 工場とデジタルプリントの新 しい当たり前をつくる!</title>
-<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png">
+<title>幸運引越センター.</title>
+<!-- <link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png">
 <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png" />
 <link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png" /> -->
 <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/bootstrap.min.css" type="text/css" />

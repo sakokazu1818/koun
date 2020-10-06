@@ -26,16 +26,16 @@
           <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FirstSlide.jpeg" alt="First slide">
         </div>
         <div class="carousel-item">
-          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/SecondSlide.png" alt="Second slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/SecondSlide.jpeg" alt="Second slide">
         </div>
         <div class="carousel-item">
-          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/ThirdSlide.png" alt="Third slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/ThirdSlide.jpeg" alt="Third slide">
         </div>
         <div class="carousel-item">
-          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FourthSlide.png" alt="Fourth slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FourthSlide.jpeg" alt="Fourth slide">
         </div>
         <div class="carousel-item">
-          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FifthSlide.png" alt="Fifth slide">
+          <img class="main-visual-img" src="wp-content/themes/printio/assets/images/FifthSlide.jpeg" alt="Fifth slide">
         </div>
       </div>
     </div>
@@ -76,7 +76,7 @@
 
         <div class="col-6">
           <div class="wrap-link">
-            <img class="recurit-img" src="/wp-content/themes/printio/assets/images/staff.svg" alt="リクルート"></img>
+            <img class="recurit-img" src="/wp-content/themes/printio/assets/images/staff.jpg" alt="リクルート"></img>
             <a class="btn btn-warning inquiry-btn" href="/moving-contact" role="button">
               <img class="inquiry-img" src="/wp-content/themes/printio/assets/images/logo-2.svg" alt="幸運引越社センターロゴ"></img>
               <div class="text">引越しのお問い合わせ</div>
@@ -101,7 +101,7 @@
       </div>
     </div>
 	</section>
-  <img class="recurit-img is-sp" src="/wp-content/themes/printio/assets/images/staff.svg" alt="リクルート"></img>
+  <img class="recurit-img is-sp" src="/wp-content/themes/printio/assets/images/staff.jpg" alt="リクルート"></img>
 
   <section class="c-contents">
     <div class="l-container01 recurit-info-area is-sp">

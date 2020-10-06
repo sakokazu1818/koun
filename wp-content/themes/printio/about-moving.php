@@ -61,7 +61,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-1"></div>
           <div class="col-10">
-            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-1.png" class="img-fluid" alt="引っ越しについて">
+            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-1.jpeg" class="img-fluid" alt="引っ越しについて">
           </div>
         </div>
       </div>
@@ -137,7 +137,7 @@ get_header(); ?>
       <div class="row">
         <div class="col-6 pr">
           <a class="image-wraper" href="/moving-contact">
-            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-6.png" class="img-fluid" alt="引っ越しについて">
+            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-6.jpeg" class="img-fluid" alt="引っ越しについて">
             <div class="inquiry-moving">引っ越しのお問い合わせ</div>
           </a>
           <h2>一人暮らし・単身引越しの方</h2>
@@ -152,7 +152,7 @@ get_header(); ?>
         </div>
         <div class="col-6 pl">
           <a class="image-wraper" href="/moving-contact">
-            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-7.png" class="img-fluid" alt="引っ越しについて">
+            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-7.jpeg" class="img-fluid" alt="引っ越しについて">
             <div class="inquiry-moving">引っ越しのお問い合わせ</div>
           </a>
           <h2>一人暮らし・単身引越しの方 </h2>
@@ -170,7 +170,7 @@ get_header(); ?>
       <div class="row">
         <div class="col-6 pr">
           <a class="image-wraper" href="/moving-contact">
-            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-8.png" class="img-fluid" alt="引っ越しについて">
+            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-8.jpeg" class="img-fluid" alt="引っ越しについて">
             <div class="inquiry-moving">引っ越しのお問い合わせ</div>
           </a>
           <h2>カップル・ご夫婦の引越しの方</h2>
@@ -184,7 +184,7 @@ get_header(); ?>
         </div>
         <div class="col-6 pl">
           <a class="image-wraper" href="/moving-contact">
-            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-9.png" class="img-fluid" alt="引っ越しについて">
+            <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-9.jpeg" class="img-fluid" alt="引っ越しについて">
             <div class="inquiry-moving">引っ越しのお問い合わせ</div>
           </a>
           <h2>カップル・ファミリー引越しの方</h2>
