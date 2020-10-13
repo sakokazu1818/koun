@@ -16,10 +16,6 @@ get_header(); ?>
 <main class="l-body error-404">
 	<section class="c-sub__contents">
 		<div class="l-container01">
-			<p class="404-img">
-				<img src="/wp-content/themes/printio/assets/images/404.svg" alt="404"></img>
-			</p>
-
 			<p class="text-center">
 			  このURLに該当するページは存在しません。</br>
 				お探しのページは移動もしくは削除された可能性があります。</br>

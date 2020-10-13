@@ -125,7 +125,7 @@ get_header(); ?>
               引越しについてのお問い合わせ
             </a>
           </div>
-          <div>どんな些細な内容でも一度弊社にご相談ください！ 充実のサポート体制でお客様の悩みにお答えします。</div>
+          <div>どんな些細な内容でも一度弊社にご相談ください！充実のサポート体制でお客様の悩みにお答えします。</div>
         </div>
 
         <div class="item-3-wrap text-center">
@@ -144,7 +144,7 @@ get_header(); ?>
           <div>(1t軽)</div>
           <div class="line"></div>
           <div class="contact-wrap">
-            <div class="content">使用車両：1t積載体制軽トラック </div>
+            <div class="content">使用車両：1t積載体制軽トラック</div>
             <div class="content">作業員1名</div>
           </div>
           <div class="details-title">内容</div>
@@ -155,11 +155,11 @@ get_header(); ?>
             <img src="/wp-content/themes/printio/assets/images/aboutmoving-img-7.jpeg" class="img-fluid" alt="引っ越しについて">
             <div class="inquiry-moving">引っ越しのお問い合わせ</div>
           </a>
-          <h2>一人暮らし・単身引越しの方 </h2>
+          <h2>一人暮らし・単身引越しの方</h2>
           <div>(2t標準/2tショート)</div>
           <div class="line"></div>
           <div class="contact-wrap">
-            <div class="content">使用車両：2t標準（2tショート） </div>
+            <div class="content">使用車両：2t標準（2tショート）</div>
             <div class="content">作業員2名</div>
           </div>
           <div class="details-title">内容</div>
@@ -176,11 +176,11 @@ get_header(); ?>
           <h2>カップル・ご夫婦の引越しの方</h2>
           <div class="line"></div>
           <div class="contact-wrap">
-            <div class="content">使用車両：2tロング </div>
+            <div class="content">使用車両：2tロング</div>
             <div class="content">作業員2名</div>
           </div>
           <div class="details-title">内容</div>
-          <div class="details">現在1Ｋ～1LDK、又は2DKの間取りに一人様で住んでいて、大物家具や家電が一通り一式あり、小物も多くてダンボールが15～25位はありそうな方 2名様分の荷物でご家財も一式ある方 大人2名、子供1名など3名様分で、小物などの荷物が少なめの方</div>
+          <div class="details">現在1Ｋ～1LDK、又は2DKの間取りに一人様で住んでいて、大物家具や家電が一通り一式あり、小物も多くてダンボールが15～25位はありそうな方2名様分の荷物でご家財も一式ある方大人2名、子供1名など3名様分で、小物などの荷物が少なめの方</div>
         </div>
         <div class="col-6 pl">
           <a class="image-wraper" href="/moving-contact">
@@ -194,7 +194,7 @@ get_header(); ?>
             <div class="content">作業員3名</div>
           </div>
           <div class="details-title">内容</div>
-          <div class="details">段ボールが30個以上で、冷蔵庫や洗濯機、ベッドやソファ、テレビやテレビ台などの一般的な家具や家電をお持ちの方 現在1ＬＤＫ～3ＬＤＫにお住まいで、処分する物以外の全ての荷物を運搬希望の方 3～4名様分の荷物でダンボールや小物、家具や家電の荷物が少ない方</div>
+          <div class="details">段ボールが30個以上で、冷蔵庫や洗濯機、ベッドやソファ、テレビやテレビ台などの一般的な家具や家電をお持ちの方現在1ＬＤＫ～3ＬＤＫにお住まいで、処分する物以外の全ての荷物を運搬希望の方 3～4名様分の荷物でダンボールや小物、家具や家電の荷物が少ない方</div>
         </div>
       </div>
     </div>

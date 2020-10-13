@@ -32,7 +32,7 @@ get_header('top'); ?>
             <h3>お問い合わせ【採用について】</h3>
             <div class="line-2"></div>
             <div class="text">お問い合せは専用窓口へ電話もしくは下記入力フォームにご記入の上、送信してください。</div>
-            <div class="annotation-2">※お引越日や契約内容変更や資材等の手配・回収に関するご要望はお引越担当支社へお問い合せ下さい。</div>
+            <div class="annotation-2">※お引越日や契約内容変更や資材等の手配・回収に関するご要望はお引越担当支社へお問い合せ下さい。</div>
           </div>
           <div class="col-6 d-flex align-items-center">
             <div class="bg-img-2"></div>

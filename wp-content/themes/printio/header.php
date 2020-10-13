@@ -19,13 +19,25 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=0">
 <title>幸運引越センター.</title>
-<!-- <link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png">
-<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png" />
-<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png" /> -->
+<meta name="description" content='格安で引越すなら幸運引越センター.業界最安値の引越価格で新生活をサポート致します。単身の方でもファミリーの方でも大歓迎。まずは一度お問い合わせください'/>
+<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.jpg">
+<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.jpg" />
+<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.jpg" />
 <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/bootstrap.min.css" type="text/css" />
 <script src="https://kit.fontawesome.com/f07e9cfdc7.js" crossorigin="anonymous"></script>
 
 <?php wp_enqueue_script('jquery'); ?>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116567101-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116567101-3');
+</script>
+
 <?php
   wp_head();
 ?>
