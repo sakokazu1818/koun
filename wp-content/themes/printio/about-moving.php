@@ -15,6 +15,11 @@
  * @version 1.0
  */
 
+global $page_title;
+global $page_description;
+
+$page_title = '単身の方必見!東京都内でお安く引っ越すなら「幸運引越センター.」';
+$page_description = '単身の方必見!東京都内で格安、激安な引越会社をお探しなら「幸運引越センター.」業界最安値の引越価格で新生活をサポート致します。単身の方はもちろんファミリーの方も大歓迎!!長年培ったノウハウで他社では真似できない引越価格を実現!!まずは是非一度お問い合わせを。';
 get_header(); ?>
 
 <main class="l-body about-moving">

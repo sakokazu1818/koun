@@ -12,14 +12,25 @@
  * @version 1.0
  */
 
+global $page_title;
+global $page_description;
+
+if (is_null($page_title)) {
+  $page_title = '幸運引越センター.';
+}
+
+if (is_null($page_description)) {
+  $page_description = '格安で引越すなら幸運引越センター.業界最安値の引越価格で新生活をサポート致します。単身の方でもファミリーの方でも大歓迎。まずは一度お問い合わせください';
+}
+
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js no-svg">
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=0">
-<title>幸運引越センター.</title>
-<meta name="description" content='格安で引越すなら幸運引越センター.業界最安値の引越価格で新生活をサポート致します。単身の方でもファミリーの方でも大歓迎。まずは一度お問い合わせください'/>
+<title><?php echo $page_title ?></title>
+<meta name="description" content='<?php echo $page_description ?>'/>
 <link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.jpg">
 <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.jpg" />
 <link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.jpg" />
