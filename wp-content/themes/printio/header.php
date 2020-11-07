@@ -14,6 +14,7 @@
 
 global $page_title;
 global $page_description;
+global $page_keywords;
 
 if (is_null($page_title)) {
   $page_title = '幸運引越センター.';
@@ -23,7 +24,7 @@ if (is_null($page_description)) {
   $page_description = '格安で引越すなら幸運引越センター.業界最安値の引越価格で新生活をサポート致します。単身の方でもファミリーの方でも大歓迎。まずは一度お問い合わせください';
 }
 
-if (is_null($page_description)) {
+if (is_null($page_keywords)) {
   $page_keywords = '引越し 業者,東京都,引越し 安い,引越し,安い,';
 }
 
