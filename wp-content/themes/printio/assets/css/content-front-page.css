@@ -1058,7 +1058,7 @@ h2 {
   height: 4px;
   background-color: #c49525;
   position: absolute;
-  top: 6px;
+  top: 16px;
 }
 .about-moving .area-3 .description .text .ten-center::before {
   content: "";
