@@ -53,10 +53,6 @@ get_header(); ?>
           <td><a href="https://www.selfproduce.jp/">https://www.selfproduce.jp/</a></td>
         </tr>
         <tr>
-          <th scope="row">本社連絡先</th>
-          <td><a href="tel:0120-559-093">0120-559-093</a></td>
-        </tr>
-        <tr>
           <th scope="row">設立年月日</th>
           <td>2017年03月31日</td>
         </tr>
@@ -102,10 +98,6 @@ get_header(); ?>
         <tr>
           <th scope="row">本社ホームページ</th>
           <td><a href="https://www.selfproduce.jp/">https://www.selfproduce.jp/</a></td>
-        </tr>
-        <tr>
-          <th scope="row">本社連絡先</th>
-          <td><a href="tel:0120-559-093">0120-559-093</a></td>
         </tr>
         <tr>
           <th scope="row">設立年月日</th>
