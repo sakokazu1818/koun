@@ -47,28 +47,27 @@
   </div>
   <div class="l-container01 l-footer__container sns-area">
      <div class="container c-container">
-       <!-- <div class="row">
+       <div class="row">
          <div class="col-4 text-center sns-wrap">
-           <a href="https://twitter.com/" class="is-hover" target="_blank">
+           <!-- <a href="https://twitter.com/" class="is-hover" target="_blank">
              <img src="/wp-content/themes/printio/assets/images/line.svg" alt="line">
              <div class="sns-text">LINE</div>
+           </a> -->
+         </div>
+
+         <div class="col-4 text-center sns-wrap">
+           <a href="https://www.instagram.com/kouun.moving/" class="is-hover" target="_blank">
+             <img class="sns-icon" src="/wp-content/themes/printio/assets/images/footer-Instagram.png" alt="line">
            </a>
          </div>
 
          <div class="col-4 text-center sns-wrap">
-           <a href="https://www.instagram.com/" class="is-hover" target="_blank">
-             <i class="fab fa-instagram icon"></i>
-             <div class="sns-text">Instagram</div>
-           </a>
-         </div>
-
-         <div class="col-4 text-center sns-wrap">
-           <a href="https://www.facebook.com/" class="is-hover" target="_blank">
+           <!-- <a href="https://www.facebook.com/" class="is-hover" target="_blank">
              <i class="fab fa-facebook-f icon"></i>
              <div class="sns-text">Facebook</div>
-           </a>
+           </a> -->
          </div>
-       </div> -->
+       </div>
      </div>
    </div>
 

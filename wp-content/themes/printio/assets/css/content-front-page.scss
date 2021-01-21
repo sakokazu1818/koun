@@ -2002,6 +2002,12 @@ h2 {
 
   .sns-area {
     background-color: #000;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+
+    .sns-icon {
+      height: 34px;
+    }
   }
 
   .company-info-area {
@@ -2019,30 +2025,8 @@ h2 {
   .l-footer__container {
     padding-bottom: 20px;
     .sns-wrap {
-      position:relative;
-      height: 19px;
-    }
-
-    .sns-wrap::before{
-      content: "";
-      display: block;
-      width: 74px;
-      height: 1px;
-      background-color: #C49525;
-      position:absolute;
-      bottom: 0;
-      right: 30px;
-    }
-
-    .sns-wrap::after{
-      content: "";
-      display: inline-block;
-      width: 1px;
-      height: 14px;
-      background-color: #C49525;
-      position: absolute;
-      top: 4px;
-      right: 30px;
+      // position:relative;
+      // height: 19px;
     }
 
     .icon {
