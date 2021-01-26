@@ -916,6 +916,15 @@ h2 {
       }
     }
 
+    .wpcf7-form-control-wrap.radio-392 {
+      padding-left: 7.2vw;
+      top: -16px;
+
+      .first {
+        margin-left: 0;
+      }
+    }
+
     .wpcf7-form {
       label:not(.message) {
         height: 62px;
@@ -1076,6 +1085,14 @@ h2 {
           input,textarea,select {
             float: right;
             width: 200px;
+          }
+        }
+
+        .sp {
+          height: 92px;
+          .wpcf7-form-control-wrap.radio-392 {
+            padding-left: 45px;
+            top: 16px;
           }
         }
 
