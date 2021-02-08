@@ -67,7 +67,7 @@ if (is_null($page_keywords)) {
       <a href="/" class="is-hover"><img src="/wp-content/themes/printio/assets/images/logo.png" alt="幸運引越社センターロゴ"></a>
     </div>
     <div class="tell">
-      <a href="tel:0120-559-878">
+      <a href="tel:0120-576-941">
         <img src="/wp-content/themes/printio/assets/images/tell.svg" alt="tell">
       </a>
     </div>

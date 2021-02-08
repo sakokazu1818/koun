@@ -127,9 +127,9 @@ get_header(); ?>
             </div>
           </div>
           <div class="contact is-sp">
-            <a href="tel:0120-559-878" class="tel">
+            <a href="tel:0120-576-941" class="tel">
               <img src="/wp-content/themes/printio/assets/images/Icon-zocial-call.png" class="icon" alt="お問い合わせTEL">
-              0120-559-878
+              0120-576-941
             </a>
             <a class="inquiry" href="/moving-contact">
               <img src="/wp-content/themes/printio/assets/images/icon-inquiry.png" class="icon" alt="お問い合わせTEL">
@@ -138,9 +138,9 @@ get_header(); ?>
           </div>
 
           <div class="contact is-pc">
-            <a href="tel:0120-559-878" class="tel">
+            <a href="tel:0120-576-941" class="tel">
               <img src="/wp-content/themes/printio/assets/images/Icon-zocial-call.png" class="icon" alt="お問い合わせTEL">
-              0120-559-878
+              0120-576-941
             </a>
             <a class="inquiry" href="/moving-contact">
               <img src="/wp-content/themes/printio/assets/images/icon-inquiry.png" class="icon" alt="お問い合わせTEL">
